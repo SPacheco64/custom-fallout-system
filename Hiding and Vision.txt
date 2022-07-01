@@ -1,0 +1,36 @@
+HIDING AND VISION
+
+When you try to hide, make an Agility (Sneak) check. Until you are discovered or you stop hiding, that check’s total is
+contested by the Perception (Detection) check of any creature that actively searches for signs of your presence.
+
+You can’t hide from a creature that can see you, and if you make noise (such as shouting a warning or knocking over a 
+vase), you give away your position. An invisible creature can’t be seen, so it can always try to hide. Signs of its 
+passage might still be noticed, however, and it still has to stay quiet.
+
+Passive Perception. When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine
+whether such a creature notices you, the Overseer compares your Agility (Sneak) check with that creature’s passive 
+Perception score, which equals 10 + the creature’s Perception modifier, as well as any other bonuses or penalties. If 
+the creature has advantage, add 5. For disadvantage, subtract 5.
+
+For example, if a 1st-level character has a Perception of 7 (a +2 modifier) and proficiency in Perception, they have a 
+passive Perception score of 12.
+
+What Can You See? One of the main factors in determining whether you can find a hidden creature or object is how well 
+you can see in an area, which might be lightly or heavily obscured. In a lightly obscured area—such as dim light, 
+patchy fog, or moderate foliage—creatures have disadvantage on Perception (Detection) checks that rely on sight. In a 
+heavily obscured area—such as darkness, opaque fog, or dense foliage—vision is blocked, effectively imposing the 
+blinded condition, as explained in conditions
+
+UNSEEN ATTACKERS AND TARGETS
+
+Combatants often try to escape their foes’ notice by hiding or lurking in darkness.
+
+When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re 
+guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the 
+location you targeted, you automatically miss, but the Overseer typically just says that the attack missed, not whether
+you guessed the target’s location correctly.
+
+When a creature can’t see you, you have advantage on attack rolls against it.
+
+If you are hidden — both unseen and unheard — when you make an attack, you give away your location when the attack hits
+or misses.

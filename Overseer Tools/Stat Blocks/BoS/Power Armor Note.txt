@@ -1,0 +1,4 @@
+Aspirants and Knights wield T-45 power armor, if any.
+Knight Sergeants wield T-51b power armor, if any.
+Knight Captains wield either T-51b or T-60 power armor.
+Knight Commanders and above always wield T-60 power armor.

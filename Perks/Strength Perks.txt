@@ -1,0 +1,100 @@
+Iron Fist (Req. Strength 1)
+Rank 1: You have +1 to attack rolls made with unarmed weapons and you choose a special unarmed move from the list at
+the bottom of this perk. You can perform one special unarmed move per turn as part of an unarmed attack. Special moves
+cost additional AP, denoted at the end of their description.
+Rank 2: Your unarmed attacks deal +1 damage and you choose another special unarmed move.
+Rank 3: You have +2 to attack rolls made with unarmed weapons and you choose another special unarmed move. Your unarmed 
+strikes use a d6 for damage.
+Rank 4: Your unarmed attacks deal +2 damage and you choose another special unarmed move.
+Rank 5:  You have +3 to attack rolls made with unarmed weapons and they deal +3 damage. You choose two more special 
+unarmed moves and your unarmed strikes use a d8 for damage
+- Haymaker: Your attack deals one additional damage die (1 AP).
+- Uppercut: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On a
+  failure they are stunned until the start of your next turn (2 AP).
+- Ear-clap: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On a
+  failure they are deafened until the start of your next turn (1 AP).
+- Throat strike: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On
+  a failure they cannot speak until the start of your next turn (1 AP).
+- Roundhouse kick: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). 
+  On a failure they are blinded until the start of your next turn (2 AP).
+- Drop kick: You attack deals two extra damage dice and forces the target to make a Constitution saving throw (DC 10 + 
+  your Strength modifier). On a failure they are knocked prone; you fall prone after this attack regardless of the 
+  roll's outcome (2 AP).
+
+
+Big Leagues (Req. Strength 2)
+Rank 1: You have +1 to attack rolls made with melee and thrown weapons. Drawing a thrown weapon costs 0 AP.
+Rank 2: Your melee and thrown attacks deal +1 damage and critical hits with a melee or thrown weapon force the target 
+to drop one item in their hands.
+Rank 3: You have +2 to attack rolls made with melee and thrown weapons. If you attack a creature who is within 5 feet 
+of another creature, and that creature is also within reach of your melee weapon, you can roll once to attack both of 
+them at the same time (requires no additional AP).
+Rank 4: Your melee and thrown attacks deal +2 damage.
+Rank 5: You have +3 to attack rolls made with melee and thrown weapons and they deal +3 damage. Your critical hit 
+multiplier with melee and thrown weapons increases by 1.
+
+Armorer (Req. Strength 3)
+Rank 1: You can craft rank 1 armor mods.
+Rank 2: You can craft rank 2 armor mods.
+Rank 3: You can craft rank 3 armor mods.
+Rank 4: You can craft rank 4 armor mods.
+Rank 5: You can attempt a DC 25 Strength (Blacksmith) ability check once per week. On a success, you can craft a single
+legendary modification for a piece of armor you choose at the time of the roll. No armor piece can have more than one 
+legendary modification, and you cannot transfer the modification to a different armor piece later.
+
+Weapon Master (Req. Strength 4)
+Rank 1: You can craft rank 1 melee/unarmed/thrown weapon mods.
+Rank 2: You can craft rank 2 melee/unarmed/thrown weapon mods.
+Rank 3: You can craft rank 3 melee/unarmed/thrown weapon mods.
+Rank 4: You can craft rank 4 melee/unarmed/thrown weapon mods.
+Rank 5: You can attempt a DC 25 Strength (Blacksmith) ability check once per week. On a success, you can craft a single
+legendary modification for a melee/unarmed/thrown weapon you choose at the time of the roll. No weapon can have more 
+than one legendary modification, and you cannot transfer the modification to a different weapon later.
+
+Heavy Gunner (Req. Strength 5)
+Rank 1: You reduce the AP cost of weapons with the Heavy property by 1.
+Rank 2: You ignore the Encumbered penalty when wielding a weapon with the Heavy property.
+Rank 3: The weight of weapons with the Heavy property is halved for you.
+Rank 4: When you roll for damage with a weapon that has the Heavy property, you ignore the target's damage resistance
+and damage threshold, if any.
+Rank 5: You have +2 to attack and damage rolls made using weapons with the Heavy property.
+
+Strong Back (Req. Strength 6)
+Rank 1: You gain +25 pounds of carry weight to your maximum.
+Rank 2: You gain +50 pounds of carry weight to your maximum.
+Rank 3: Being Encumbered does not reduce your travel speed or make you more prone to exhaustion.
+Rank 4: Being Heavily Encumbered does not reduce your travel speed or make you more prone to exhaustion.
+Rank 5: Your base carrying capacity (before modifiers) is now your Strength score multiplied by 15.
+
+Blitz (Req. Strength 7)
+Rank 1: When you attack with a weapon (melee, ranged, or unarmed) you can also take one Move action for free. Doing so 
+imposes disadvantege on the attack. You can only do this once per round.
+Rank 2: Blitz attacks no longer have disadvantage.
+Rank 3: You can now make two blitz attacks per round.
+Rank 4: Blitz attacks now have advantage.
+Rank 5: If a Blitz attack results in a kill, the Action Points spent to make it are refunded. This can trigger once per
+round.
+
+Basher (Req. Strength 8)
+Rank 1: Improvised weapons now use d6's or larger for their damage dice.
+Rank 2: You can apply your Melee Weapons skill bonus to melee and thrown attacks made with improvised weapons.
+Rank 3: Improvised weapons now use d8's or larger for their damage dice.
+
+Rooted (Req. Strength 9)
+Rank 1: If you have not moved this round, you can spend 2 AP to become Rooted. While Rooted you gain +2 Damage 
+Resistance and your melee/unarmed attacks deal +1 damage. Once Rooted, you cannot move until the start of your next 
+turn.
+Rank 2: While Rooted you have advantage on saving throws to resist being pushed or knocked prone.
+Rank 3: While rooted your Damage Resistance bonus increases to +4 and your melee/unarmed attacks deal +2 damage.
+Rank 4: Becoming Rooted no longer costs AP.
+Rank 5: While Rooted you cannot be pushed or knocked prone. Your Damage Resistance bonus increases to +6 and your 
+melee/unarmed attacks deal +3 damage.
+
+Pain Train (Req. Strength 10)
+Rank 1: If you move at least 15 feet before making a melee/unarmed attack against a creature, on a hit that creature is
+knocked prone.
+Rank 2: Creatures can no longer take melee/unarmed opportunity attacks against you.
+Rank 3: Creatures can no longer take overwatch attacks against you.
+Rank 4: If you move through the space of a hostile creature whose Strength score is lower than yours, you knock them
+prone and their space is not considered difficult terrain for you.
+Rank 5: Creatures knocked prone by your movement take 1d6 ballistic damage.

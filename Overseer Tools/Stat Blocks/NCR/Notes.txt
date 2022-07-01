@@ -1,0 +1,16 @@
+Enlisted soldiers above Staff Sergeant and officers above Captain would use the Corporal stat block, because they
+haven't commanded in combat for awhile, if ever.
+
+Medium Leather Armor
+Private
+Corporal
+Sergeant
+Staff Sergeant
+Lieutenant
+Captain
+
+Ranger Combat Armor (Light variant)
+Ranger Veteran
+
+Light Combat Armor
+Ranger

@@ -1,0 +1,41 @@
+Sanity is a unique SPECIAL attribute only used in certain campaigns. In these campaigns your Overseer will start
+your character with an additional 5 SPECIAL points. Like normal, you can set your Sanity and other SPECIAL scores as
+low as 1 and as high as 10.
+
+Sanity specifically refers to your mental well-being and resiliency to the bizarre, the stressful, and the 
+incomprehensible. A character with low Sanity is more easily panicked, stressed, and may even be struggling with their
+grip on reality. A high-Sanity character is stalwart and difficult to phase. They might still be unnerved or frightened
+by something, but they keep their cool despite this.
+
+In response to certain situations, your Overseer may require you to make a Sanity saving throw. On a success, you
+handle things; on a failure, you're hit hard by what's happened. Failure also permanently reduces your Sanity score by
+1. 
+
+If this reduces your Sanity below 3, you gain an Insane perk point you can use to obtain an Insane perk and you can
+no longer benefit from any Sane perks you have (see "Sanity Perks"). This is the only way you can gain Insane perks.
+Additionally, you must roll for a form of madness, using a d8. On a 5-8 you suffer a Short-Term Madness, on a 2-4 you
+suffer a Long-Term Madness, and on a 1 you suffer an Indefinite Madness. You then roll on the associated table to
+determine the specifics of that madness. You suffer madness each time your Sanity is decreased to a value less than 3.
+While your Sanity is > 3, you cannot benefit from any Insane perks you have. If your Sanity becomes >= 5, any madness
+you are suffering ends.
+
+Similarly, if your Sanity is reduced to 0, you completely succumb to the madness of the Wasteland. You become hostile
+to all creatures and the Overseer treats your player character as an NPC from now on.
+
+There are various circumstances that can provoke a Sanity saving throw, including:
+- A member of the party or friendly creature is killed
+- Becoming addicted to a chem
+- Cannibalism (I mean, what do you expect from this?)
+- Consecutively failing saving throws against a source of the frightened condition
+- Killing a human in or out of combat
+- Learning a difficult truth
+- Witnessing something insane or horrifying
+- You are reduced to 0 hit points but are resuscitated or succeed your Death saving throws
+
+Certain things provoke a different kind of Sanity saving throw. On a success, you increase your Sanity score by 1,
+following the above rules for any changes that might cause. These circumstances include:
+- Gaining a pet dog (automatically succeeds).
+- Being a good human.
+- Performing a truly selfless act or being saved by such an act.
+- Taking a shot of Thorazine (automatically succeeds).
+- Consuming alcohol.

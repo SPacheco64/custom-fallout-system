@@ -1,0 +1,4 @@
+Shield Name	  Armor Class (AC)	Cost		Weight
+Junk			+1	   	75 caps		20 lbs.
+Car Door		+2	   	126 caps	40 lbs.	
+Metal			+3	   	140 caps	28 lbs.

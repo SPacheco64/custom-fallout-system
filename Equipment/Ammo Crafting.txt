@@ -1,0 +1,23 @@
+Ballistic Weapons
+1 brass + 1 lead + 1 explosive material = 1 onehanded weapon round
+1 brass + 2 lead + 2 explosive material = 1 twohanded weapon round, or shotgun shell
+
+At Rank 1 Gun Nut you can craft..... (fill this out later)
+
+Energy Weapons
+3 plastic + 3 crystal + 1 nuclear material = 1 MF cell
+
+Fuel
+1 oil + 1 adhesive = 1 Fuel
+
+Missile
+10 steel + 1 adhesive + 10 explosive material = 1 missile
+
+Note to DM: Crafting a missile is more expensive than buying one, but still better than not having one at all.
+Most stores won't be seeling high-end ammo like this.
+
+Plasma Weapons
+4 plastic + 2 steel + 3 nuclear material = 1 Gamma Cartridge
+
+Radiation Weapons
+1 plastic + 2 nuclear material = 1 Gamma round

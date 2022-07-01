@@ -1,0 +1,4 @@
+Turrets can be looted for components and ammo.
+
+Machinegun turrets always award 5d10 5mm rounds, regardless of requests for a specific ammo type or relevant perks.
+Likewise, laser turrets always award 1d2 MF Cells and bubble turrets award 10d10 5mm rounds.

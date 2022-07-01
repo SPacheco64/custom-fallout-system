@@ -1,0 +1,64 @@
+*** Robot ***
+
+All robots have the following traits in common:
+
+Machine. You do not need to eat, sleep, or drink to survive. Once per 24 hours however, you must complete a long rest
+to perform repairs and systems diagnostics. During this process you are semi-conscious of your surroundings (-5 to
+passive Perception and disadvantage on Perception checks). Additionally, chems and medical supplies have no effect on 
+you.
+
+Semiconductors and Steel. You have immunity to poison, the poisoned condition, and radiation damage, as well as 
+vulnerability to lightning damage. Every time you start your turn in waist-high water, every time you move through 10 
+feet worth of waist-high water, and for every a gallon of water dumped on you, you take 3 lightning damage (do not 
+double this value to account for vulnerability).
+
+
+
+Robot Weapons and Armor. Robots have access to unique weapons and armor exclusive to them. They can only be equipped
+or unequipped at a workbench or with a long rest. "Human" weapons and armor are incompatible with their bodies.
+
+Specialized. You have 1 free skill point at first level.
+
+
+*** Assaultron ***
+
+Head Laser. Your head has a built-in laser beam weapon of devastating capability. It has the following properties:
+- AP Cost: 3
+- Damage: 6d10 energy
+- Reload: 1 MF Cell or 1 Fusion Core charge per attack
+- Range: 100 ft.
+- Ammo: MF Cell or 1 Fusion Core charge
+- Special (Spray): You can spend an additional 2 AP on an attack with this weapon, along with double the ammunition, to
+  make one attack roll against every creature in a 15-foot radius of a point you can see. Creatures behind full-cover 
+  in this radius are excluded from the attack.
+
+Mobile. Your movement speed increases by 5 feet.
+
+Superior Darkvision. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if 
+it were dim light. You can’t discern color in darkness, only shades of green or red (your choice).
+
+
+*** Gen-2 Synth ***
+
+Almost Human. Your chassis is incompatible with robot armor; you use human armor instead. Likewise, your hands are 
+incompatible with robot weapons; you use human weapons instead.
+
+Limited Darkvision. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it
+were dim light. You can’t discern color in darkness, only shades of gray.
+
+
+*** Mr. Gutsy/Handy (Miss Gutsy/Nanny) ***
+
+Inhuman. Your chassis and limbs are incompatible with human weapons and armor; you instead use robot weapons and armor.
+
+Thruster. You ignore difficult terrain.
+
+Thruster Arms. You have a trio of arms which you can apply special mods to in addition to your normal robot mods.
+
+
+*** Protectron ***
+
+Bulky. Your size is Large, doubling your carrying capacity and the weight you can push, drag, or lift. At the 
+Overseer's discretion you may be too large to benefit from certain cover.
+
+Natural Armor. Without armor or a shield, your character’s AC equals 8 + their Agility modifier (minimum 1).

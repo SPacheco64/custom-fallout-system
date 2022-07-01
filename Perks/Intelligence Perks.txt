@@ -1,0 +1,86 @@
+Scrapper (Req. Intelligence 1)
+Rank 1: You can recover steel, rubber, cloth, bone, plastic, leather, and concrete from scrapping items.
+Rank 2: You can recover asbestos, ballistic fiber, circuitry, crystal, fiber optics, gold, and silver
+from scrapping items.
+Rank 3: You can recover acid, adhesive, antiseptic, ceramic, fertilizer, and nuclear material from scrapping items.
+Rank 4: Over the course of an hour you can scrap up to 5 items. Portable scrapping kits can scrap up to 2 items.
+Rank 5: Over the course of an hour you can scrap up to 8 items. Portable scrapping kits can scrap up to 3 items.
+
+Chemist (Req. Intelligence 2)
+Rank 1: You can craft chems at a workbench.
+Rank 2: You can craft medical supplies at a workbench.
+Rank 3: Any chems you take last twice as long.
+Rank 4: You can craft custom cocktail chems like Bufftats and Psycho Jet (choose two different chems and combine their 
+effects)
+Rank 5: Crafting medical supplies and chems takes half as long.
+
+Field Medic (Req. Intelligence 3)
+Each rank in this perk applies to any of the listed medical supplies when you apply them, either to yourself or another
+creature.
+Rank 1: Stimpaks heal 3d6 hit points, Med-X grants 3 Damage Resistance, and Radaway heals 3d6 radiation damage.
+Rank 1: Stimpaks heal 4d6 hit points, Med-X grants 4 Damage Resistance, and Radaway heals 4d6 radiation damage.
+Rank 1: Stimpaks heal 5d6 hit points, Med-X grants 5 Damage Resistance, and Radaway heals 5d6 radiation damage.
+Rank 1: Stimpaks heal 7d6 hit points, Med-X grants 6 Damage Resistance, and Radaway heals 6d6 radiation damage.
+Rank 5: Rad-X provides radiation immunity
+
+Demolitions Expert (Req. Intelligence 4)
+Rank 1: You can craft rank 1 explosives.
+Rank 2: You can craft rank 2 explosives. You can throw mines in combat like they are grenades.
+Rank 3: You can craft rank 3 explosives and missiles. Crafted mines have a layer of adhesive, letting you attach them 
+to walls and ceilings.
+Rank 4: You can craft rank 4 explosives.
+Rank 5: When an explosive you've thrown detonates, you can designate one creature to have advantage or disadvantage on
+the saving throw. You must be able to see the creature to designate them.
+
+Hacker (Req. Intelligence 5)
+Rank 1: Hacking a very easy computer (DC 5 or lower) automatically succeeds.
+Rank 2: Hacking an easy computer (DC 10 or lower) automatically succeeds.
+Rank 3: Hacking an advanced computer (DC 15 or lower) automatically succeeds.
+Rank 4: Hacking an expert computer (DC 20 or lower) automatically succeeds.
+Rank 5: You have advantage on rolls to hack master computers (DC 20+).
+
+Robotics Expert (Req. Intelligence 6)
+Rank 1: You can craft rank 1 robot mods. Repair kits applied by you, either to yourself or another creature, heal 
+robots for 3d6 hit points.
+Rank 2: You can craft rank 2 robot mods. Repair kits heal for 4d6 hit points.
+Rank 3: You can craft rank 3 robot mods. Repair kits heal for 5d6 hit points.
+Rank 4: You can craft rank 4 robot mods. Repair kits heal for 7d6 hit points.
+Rank 5: You can attempt a DC 25 Intelligence (Science) ability check once per week. On a success, you can craft a 
+single legendary modification for a robot's weapon or armor - you choose which weapon or their armor at the time of the
+roll. No weapon or armor piece can have more than one legendary modification, and you cannot transfer the  modification
+to a different weapon or armor set later.
+
+Mad Scientist (Req. Intelligence 7)
+Rank 1: You can craft rank 1 energy weapon and power armor mods, as well as energy weapon ammo.
+Rank 2: You can craft rank 2 energy weapon and power armor mods, as well as radiation weapon ammo.
+Rank 3: You can craft rank 3 energy weapon and power armor mods, as well as plasma weapon ammo.
+Rank 4: You can craft rank 4 energy weapon and power armor mods.
+Rank 5: You can attempt a DC 25 Intelligence (Energysmith) ability check once per week. On a success, you can craft a 
+single legendary modification for an energy weapon or piece of power armor you choose at the time of the roll. No 
+weapon or armor piece can have more than one legendary modification, and you cannot transfer the modification to a 
+different weapon or armor piece later.
+
+Nuclear Physicist (Req. Intelligence 8)
+Rank 1: You have +1 to attack rolls made with weapons that deal only radiation damage (before mods). Fusion cores have
+3 charges when you use them.
+Rank 2: You deal +1 damage with weapons that deal only radiation damage (before mods). Fusion cores have 4 charges when
+you use them.
+Rank 3: You have +2 to attack rolls made with weapons that deal only radiation damage (before mods). Fusion cores have
+5 charges when you use them.
+Rank 4: You deal +2 damage with weapons that deal only radiation damage (before mods). Fusion cores have 6 charges when
+you use them.
+Rank 5: You have +3 to attack rolls made with weapons that deal only radiation damage (before mods) and they deal +3
+damage. Fusion cores have 8 charges when you use them.
+
+Physician (Req. Intelligence 9)
+Rank 1: When you and your party take a short rest, each party member can roll 1 additional hit die.
+Rank 2: When you and your party take a short rest, each party member can roll 2 additional hit dice.
+Rank 3: When you and your party take a short rest, each party member can roll 3 additional hit dice.
+
+Nerd Rage (Req. Intelligence 10)
+Rank 1: When your current hit points drop below 1/4 of your maximum, you gain 3 Damage Resistance and deal +3 damage
+for all attacks for 1 minute. This effect can only trigger once per day.
+Rank 2: When your current hit points drop below 1/4 of your maximum, you gain 5 Damage Resistance and deal +3 damage
+for all attacks for 1 minute. This effect can only trigger once per day.
+Rank 3: When your current hit points drop below 1/2 of your maximum, you gain 5 Damage Resistance and deal +3 damage
+for all attacks for 1 minute. This effect can only trigger once per day.

@@ -1,0 +1,72 @@
+Gunslinger (Req. Agility 1)
+Rank 1: You have +1 to attack rolls made with non-automatic, onehanded ranged weapons (henceforth referred to as
+"pistols"). Attacks made with pistols cost 1 less AP, to a minimum of 3.
+Rank 2: Your pistol attacks deal +1 damage.
+Rank 3: You have +2 to attack rolls made with pistols. Attacks made with pistols cost 1 less AP, to a minimum of 2.
+Rank 4: Your pistol attacks deal +2 damage. Critical hits and kills with a pistol refund the AP spent on the attack.
+Rank 5:  You have +3 to attack rolls made with pistols and they deal +3 damage. Attacks made with pistols cost 2 less 
+AP, to a minimum of 2. 
+
+Commando (Req. Agility 2)
+Rank 1: You have +1 to attack rolls made with automatic, ranged weapons - be they onehanded or twohanded (henceforth 
+these are referred to as "automatic weapons"). 
+Rank 2: Your automatic weapon attacks deal +1 damage. Your critical hit multiplier with automatic weapons increases by
+1.
+Rank 3: You have +2 to attack rolls made with automatic weapons.
+Rank 4: Your automatic weapon attacks deal +2 damage. Your critical hit multiplier with automatic weapons increases by
+1 again.
+Rank 5:  You have +3 to attack rolls made with automatic weapons and they deal +3 damage. Attack rolls with automatic 
+weapons are a critical hit on a roll of 19-20 on the d20.
+
+Sneaky (Req. Agility 3)
+Rank 1: Moving stealthily does not reduce your travel speed or your combat speed.
+Rank 2: Attacking with a silent weapon, hit or miss, does not alert creatures to your presence. On a hit, the targeted
+creature is still alerted like normal.
+Rank 3: While moving stealthily, you do not trigger hostile landmines.
+Rank 4: While moving stealthily in dim light, other creatures treat you as if you were in darkness.
+Rank 5: You have advantage on Stealth checks.
+
+Mister Sandman/Miss Sandwoman (Req. Agility 4)
+Rank 1: You gain an additional +1 damage multiplier to your Sneak Attack Criticals.
+Rank 2: While moving stealthily, you can perform an Agility (Sleight of Hand) check to knock a humanoid unconscious
+without harming them.
+Rnak 3: While moving stealthily, at the Overseer's discretion you can instantly kill a creature with an attack.
+
+Pickpocket (Req. Agility 5)
+Rank 1: You can pickpocket someone without being hidden from them.
+Rank 2: You have advantage on rolls to pickpocket someone you are hidden from.
+Rank 3: When pickpocketing someone, you can plant a live grenade on them.
+Rank 4: When pickpocketing someone, in certain cases you may be able to steal any weapons not currently in their hands.
+Ranged weapons in their hands can be disarmed (you flip the safety on, remove the ammo magazine, put a stop in the gun 
+barrel) etc., requiring a Reload action to fire the weapon or enforcing some other negative effect at the Overseer's 
+discretion.
+Rank 5: You can pickpocket someone even when you are in combat with them. Out of combat, you always have advantage
+on rolls to pickpocket someone.
+
+Moving Target (Req. Agility 6)
+Rank 1: Opportunity and Overwatch attacks have disadvantage against you.
+Rank 2: Opportunity and Overwatch attacks against you always miss.
+Rank 3: Your movement speed increases to 30 feet.
+
+Quick Hands (Req. Agility 7)
+Rank 1: You can draw, stow, and swap up to two weapons for free each turn.
+Rank 2: The first reload action on your turn costs half as much AP.
+Rank 3: The first reload action on your turn costs 0 AP.
+
+Action Boy/Girl (Req. Agility 8)
+Rank 1: You now have 1 additional AP per turn, and your AP maximum increases to 11.
+Rank 2: You now have 2 additional AP per turn, and your AP maximum increases to 12.
+Rank 3: You now have 3 additional AP per turn, and your AP maximum increases to 13.
+
+Ninja (Req. Agility 9)
+Rank 1: Your sneak attack critical modifier increases by 1.
+Rank 2: Your sneak attack critical modifier increases again by 1.
+Rank 3: Your sneak attack critical modifier increases again by 1. 
+
+Gun Fu (Req. Agility 10)
+Rank 1: Attacking with a twohanded, ranged weapon while engaged in melee with a creature does not impose disadvantage 
+on the attack roll.
+Rank 2: As long as a weapon does not have the twohanded or heavy property, it can be dual-wielded by you.
+Rank 3: As long as a weapon does not have the heavy property, it can be dual-wielded by you.
+Rank 4: You can attack with dual-wielded weapons at long range.
+Rank 5: While dual-wielding, you can reload both weapons as part of the same Reload action.

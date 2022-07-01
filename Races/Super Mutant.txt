@@ -1,0 +1,24 @@
+*** Super Mutant ***
+
+All super mutants have the following traits in common:
+
+Product of the Wastes. You have immunity to radiation damage.
+
+Mutated Physiology. Stimpaks heal you for half as much (round up) and chems last for half as long.
+
+Bulky. Your size is Large, doubling your carrying capacity and the weight you can push, drag, or lift. You cannot wield
+power armor, onehanded weapons with the Light property (excluding pipe guns and bare fists), or Ranger, Riot Gear, or
+combat armor.
+
+Specialized. You have 1 free skill point at first level.
+
+
+*** Regular ***
+
+Tough. You gain 1 additional hit point each level, including first level. The minimum number of hit points you can gain
+each level is increased to 2.
+
+
+*** Nightkin ***
+
+Implanted Stealth Boy. When you take the Hide action, you can spend an additional 2 AP to turn invisible.

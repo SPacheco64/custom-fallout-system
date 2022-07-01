@@ -1,0 +1,11 @@
+When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the 
+attack's damage dice twice, thrice, or more depending on the critical hit multiplier of the weapon used and your perks.
+Then add them together to get the total. Finally, add any relevant modifiers as normal. To speed up play, you can roll 
+all the damage dice at once or roll your normal damage dice, then multiply the total by your critical hit multiplier.
+
+For example, if you score a critical hit with a knife, roll 3d4 for the damage, rather than 1d4, and then add your 
+relevant ability modifier. If you had rank 1 of Bloody Mess, you would roll 4d4 instead of 1d4.
+
+When you are hidden from a creature, the first attack you make against them is a critical hit if successful. This is
+known as a "Sneak Attack Critical." After the first attack, hit or miss, you are revealed to the creature you are
+attacking, unless an effect, piece of equipment, or set of circumstances dictates otherwise.

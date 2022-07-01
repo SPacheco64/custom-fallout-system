@@ -1,0 +1,22 @@
+Armor Name		Armor Class (AC)	Strength	Stealth		Cost		Weight
+Junk/Raider		7 + Agi mod (Max 3)	   5	      Disadvantage	75 caps		40 lbs.
+Leather			8 + Agi mod (Max 3)	   5		   -		126 caps	30 lbs.	
+Metal			9 + Agi mod (Max 3)	   5		   -		140 caps	43 lbs.
+Advanced Riot Gear*	10 + Agi mod (Max 3)	   5		   -		178 caps	48 lbs.
+Combat Armor, MKII	11 + Agi mod (Max 3)	   5		   -		240 caps	36 lbs.
+Robot Scrap		      13		   6	      Disadvantage	201 caps	55 lbs.
+
+*Clothing cannot be worn underneath this armor.
+
+Robots
+Armor Name		Armor Class (AC)	Strength	Stealth		Cost		Weight
+Junk Plate (2)		     +2 AC		   5	      Disadvantage	Crafted		40 lbs.
+Improved Plate (2) 	     +3 AC 		   5		   -		Crafted		45 lbs.
+Custom Chassis (2)	     +4 AC		   5		   -		Crafted		50 lbs.
+Actuated Chassis (2)	     +5 AC		   5		   -		Crafted		55 lbs.
+Hydraulic Chassis (3)	     +6 AC		   5		   -		Crafted		 0 lbs.
+Voltaic Chassis	(3)	     +6 AC*		   6	      Disadvantage	Crafted		60 lbs.
+
+*With this armor equipped, you no longer have vulnerability to lightning damage.
+
+(X) - This symbol denotes what rank of the Armorer perk is required to craft this armor, with X being the rank.

@@ -1,0 +1,3 @@
+Tunneler. The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
+
+Pack Tactics.

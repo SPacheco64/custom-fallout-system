@@ -1,0 +1,18 @@
+Drinking
+
+For every 12 hours you go without drinking one pint of water (20 oz. of water, or one dirty/purified water) you gain
+one level of exhaustion. Every 12-hour period you satisfy this requirement in, you reduce any exhaustion from lack of 
+drinking by one, to a minimum of 0. Drinking cannot reduce exhaustion caused by other needs. 
+
+Eating
+
+For every 24 hours you go without eating two meals (roughly two food items) you gain one level of exhaustion. Certain
+foods, such as Sugar Bombs, are considered snacks. Snacks provide their normal benefits (such as healing), but do not
+contribute to satisfying your two meals a day. Every 24-hour period you satisfy this requirement in, you reduce any 
+exhaustion from lack of eating by one, to a minimum of 0. Eating cannot reduce exhaustion caused by other needs. 
+
+Sleeping
+
+For every 24 hours you go without sleeping for 8 hours (typically as part of a long rest) you gain one level of 
+exhaustion. Every 24-hour period you satisfy this requirement in, you reduce any exhaustion from a lack of sleeping by 
+one, to a minimum of 0. Sleeping cannot reduce exhaustion caused by other needs. 

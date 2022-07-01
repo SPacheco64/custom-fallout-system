@@ -1,0 +1,13 @@
+Name				Property			Cost		Weight
+Radiation Suit			Radiation Resistance		500 caps	6 lbs.
+Advanced Radiation Suit		Radiation Immunity		1000 caps	8 lbs.
+
+Due to the unique nature of a radiation suit's design, they do not allow you to wear headgear with them, and if you
+are struck by a critical hit while wearing a radiation suit it is considered compromised.
+
+A compromised radiation suit no longer provides its benefits until repaired, while a compromised advanced radiation
+suit only grants radiation resistance until repaired (unless you are struck again by a critical hit, in which case
+it provides no benefits).
+
+To repair a radiation suit costs 5 adhesive, 5 cloth, 5 lead, 5 leather, and 5 plastic, as well as a DC 15 Intelligence
+(Energysmith) check.

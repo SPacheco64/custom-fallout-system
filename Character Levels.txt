@@ -1,0 +1,27 @@
+Level	Experience	Exp to Next Level	Name			Character's Starting Caps
+1	0 XP		200 XP			Nobody			200 caps
+2	200 XP		350 XP			Drifter			350 caps
+3	550 XP		500 XP			Wanderer		500 caps
+4	1,050 XP	650 XP			Traveler		650 caps
+5	1,700 XP	800 XP			Passer-by		800 caps
+6	2,500 XP	950 XP			Stranger		950 caps
+7	3,450 XP	1,100 XP		Somebody		1,100 caps
+8	4,550 XP	1,250 XP		Visitor			1,250 caps
+9	5,800 XP	1,400 XP		Heard Of		1,400 caps
+10	7,200 XP	1,550 XP		Wasteland Regular	1,550 caps
+11	8,750 XP	1,700 XP		Well-Known		1,700 caps
+12	10,450 XP	1,850 XP		Talk-of-the-Town	1,850 caps
+13	12,300 XP	2,000 XP		Subject of Bragging	2,000 caps
+14	14,300 XP	2,150 XP		Bringer of Business	2,150 caps
+15	16,450 XP	2,300 XP		Community Symbol	2,300 caps
+16	18,750 XP	2,450 XP		Icon			2,450 caps
+17	21,200 XP	2,600 XP		Stuff of Stories	2,600 caps
+18	23,800 XP	2,750 XP		Tall Tale		2,750 caps
+19	26,550 XP	2,900 XP		Myth			2,900 caps
+20	29,450 XP	3,050 XP		Wasteland Legend	3,050 caps
+
+
+Every level gained, your player character receives a number of skill points equal to their Intelligence modifier
+(minimum of 1, maximum of 3) and gains one perk point, which can be spent on unlocking a new perk or increasing your
+rank in a perk you already have. At 4th, 8th, 12th, 16th, and 20th level you may also increase one of your SPECIAL
+scores by 1.

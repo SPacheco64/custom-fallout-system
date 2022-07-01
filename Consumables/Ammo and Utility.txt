@@ -1,0 +1,50 @@
+
+*** Ammo ***
+
+Name				Cost		Weight
+2mm EC				10 caps		0.1 lbs.
+5mm				2 caps		0.1 lbs.
+5.56mm				4 caps		0.1 lbs.
+9mm				2 caps		0.1 lbs.
+10mm				3 caps		0.1 lbs.
+.308 cal			5 caps		0.1 lbs.
+.357 Magnum			3 cap		0.1 lbs.
+.38 cal				1 cap		0.1 lbs.
+.44 Magnum			4 caps		0.1 lbs.
+.444 HEAP			20 caps		0.5 lbs.
+.45 cal				2 caps		0.1 lbs.
+.50 cal				8 caps		0.25 lbs.
+12 Gauge			3 caps		0.1 lbs.
+Fuel				1 cap		0.1 lbs.
+Gamma Round			5 caps		0.1 lbs.
+Microfusion Cell		60 caps		0.1 lbs.
+Mini Nuke			200 caps	12 lbs.
+Missile				25 caps		7 lbs.
+Plasma Cartridge		100 caps	0.1 lbs.
+Spike				1 cap		0.5 lbs.
+
+*** Utility ***
+
+Name			Property						Cost		Weight
+Bear Trap		1d6 ballistic, creature is restrained (STR save)	23 caps		6 lbs.
+Binoculars		Advantage on long-rage Perception checks		40 caps		1 lb.
+Cap										1 cap		1 lb. per 50 caps
+Caltrops		10 ft. difficult terrain square, 1d4 ballistic		21 caps		2 lbs.
+Detonator		Detonate satchel charges and other explosives		15 caps		1 lb.
+Flare*			30 ft. sphere of light (1 hr.)				10 caps		0.5 lbs.
+Flashlight		30 ft. cone of bright light (12 hr. per MF cell)	28 caps		2 lbs.
+Flashlight, Headband	30 ft. cone of dim light (12 hr. per MF cell)		35 caps		0.5 lbs.
+Fusion Core**		Power Armor Fuel (2 hrs. per charge)			200 caps	4 lbs.
+Geiger Counter		Detects environmental radiation				120 caps	3 lbs.
+Glowstick*		10 ft. sphere of dim light (1 hr.)			5 caps		0.1 lbs.
+High-Power Flashlight	60 ft. cone of light (6 hr. per MF cell)		33 caps		3 lbs.
+Night-Vision Goggles	Darkvision out to 60 ft. (24 hr. per MF cell)		65 caps		1 lb.
+Portable Scrapping Kit	Special	
+Rope (30 ft)									30 caps		5 lbs.
+Stealth Boy		Invisibility (1 min.)					100 caps	0.1 lbs.
+Torch			45 ft. sphere of light (1 hr.)				15 caps		1 lb.
+
+*Flares and glowsticks shed light underwater.
+**If at least half of the core's charges remain, it can be used as a nuka grenade (see "grenades").
+
+Portable Scrapping Kit: Allows you to scrap 1 item per hour without the need of a workbench.

@@ -1,0 +1,35 @@
+Fallout is a vast tapestry made up of many different cultures, each with its own technology level, each wanting to kill
+you for stealing from them. For this reason, adventurers have access to a variety of armor types, ranging from leather 
+armor to combat armor to powered armor, with several other kinds of armor in between. The Armor table collects the most
+commonly available types of armor found in the game and separates them into three categories: light armor, medium 
+armor, and heavy armor. Some fwastelanders supplement their armor with a shield.
+
+The Armor table shows the cost, weight, and other properties of the common types of armor and shields used in the 
+world of Fallout.
+
+Your Armor Class (AC) represents how well your character avoids being wounded in battle. Things that contribute to your
+AC include the armor you wear, the shield you carry, and your Agility modifier. Not all characters wear armor or carry 
+shields, however.
+
+Without armor or a shield, your character’s AC equals 5 + his or her Agility modifier (minimum 1). If your character
+wears armor, carries a shield, or both, calculate your AC using the rules in the Equipment section. Record your AC on 
+your character sheet.
+
+Strength Requirement. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If 
+the Armor table shows a Strength requirement in the Strength column for an armor type, the armor reduces the wearer's 
+speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+
+Stealth. If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Agility
+(Stealth) checks.
+
+Shields. A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class 
+by an amount specified by that shield. You can benefit from only one shield at a time.
+
+Mods. Armor can have modifications added to them, ranging from extra carrying capacity to powerful optical sensors. 
+Each section of your body can have a modification added to it: each leg, each arm, your torso, and your head. No 
+armor section (or "piece") can have more than one modification at a time. Once a modification is attached to an armor
+piece it cannot be removed and transferred to another piece. 
+
+The Mod Table lists shows the cost, weight, and other properties of the common types modifications used in the world of
+Fallout. Helmets are mored limited in what mods they can use, and have their own table to reflect this. Whenever a mod
+requires all pieces of your armor to have the same mod for its effect to trigger, this does not include helmets.

@@ -1,0 +1,34 @@
+XP rating rewards are based on the idea that a single character must obtain 10 rewards of the same rating as their 
+character level to progress to the next level. This implies that a given XP rating is an appropriate reward for 
+characters of the matching level, but this highly depends on the party and circumstances that generate the reward.
+
+For parties of more than one character, the XP reward is divided out evenly among the party members. For example, a
+party of 4 characters who receive a Rating 1 reward would each receive (20 / 4 = 5) 5 XP. If ever there is a remainder
+when dividing the reward by the number of player characters, round the reward up to the nearest whole number. I.e. in
+that same party of 4, each character would receive 9 XP from a Rating 2 reward (35 / 4 = 8.75).
+
+XP Rating	XP Reward
+0*		  5
+1		  20
+2		  35
+3		  50
+4		  65
+5		  80
+6		  95
+7		  110
+8		  125
+9		  140
+10		  155
+11		  170
+12		  185
+13		  200
+14		  215
+15		  230
+16		  245
+17		  260
+18		  275
+19		  290
+20		  305
+
+*This rating is intended mostly for horde enemies, so that using such a threat wouldn't rapidly generate an extreme
+amount of XP.

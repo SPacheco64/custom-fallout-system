@@ -1,0 +1,61 @@
+Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more 
+hit points are more difficult to kill. Those with fewer hit points are more fragile.
+
+At first level, every character starts with 10 hit points + their Endurance modifier (minimum of 0). Each time a
+character levels up, they gain a number of hit points equal to their Endurance modifier (minimum of 1). If a character
+increases their Endurance modifier at a later level, they retroactively gain any hit points they would've had if their
+Endurance modifier was always this high.
+
+For example, a character at 4th level who increases their Endurance by 1 would gain 4 hit points - one for every every 
+level they have.
+
+Hit Dice
+A character has a number of hit dice equal to their level, and can spend them during a short or long rest to regain 
+lost hit points. The size of the die used is determined by your Endurance score: For Endurance 1-4, use a d4; for 
+Endurance 5-6, use a d6; 7-8, use a d8; 9-10, use a d10. You do not add any modifiers to these rolls. You regain a 
+number of hit points equal to the sum of the values rolled on the hit dice.
+
+During a short or long rest, you can spend as many hit dice as you want. At the end of a long rest, if you no longer 
+have any levels of exhaustion, you regain 2 spent hit dice (4 spent hit dice when your character's level is 11 or
+greater).
+
+Damage
+A creature's current hit points (usually just called hit points) can be any number from the creature's hit point 
+maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
+
+Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points effects a
+creature's capabilities. When your current hit points are below half your maximum, you suffer one level of exhaustion;
+once they fall below 1/4 of your maximum you suffer a second level of exhaustion. Exhaustion gained this way can only
+be removed through sufficient healing to bring your hit points back above the aforementioned thresholds.
+
+When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+
+Instant Death
+Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die 
+if the remaining damage equals or exceeds your hit point maximum.
+
+For example, a character with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an 
+attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point 
+maximum, the character dies.
+
+Falling Unconscious
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious. This unconsciousness ends if you 
+regain any hit points.
+
+Death Saving Throws
+Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to 
+determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn't tied to any 
+ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of 
+succeeding on a saving throw.
+
+Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by 
+itself. On your third success, you become stable (see below). On your third failure, you die. The successes and 
+failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is 
+reset to zero when you regain any hit points or become stable.
+
+Rolling 1 or 20. When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 
+20 on the d20, you regain 1 hit point.
+
+Damage at 0 Hit Points. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. 
+If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point 
+maximum, you suffer instant death.

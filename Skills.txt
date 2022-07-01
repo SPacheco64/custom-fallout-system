@@ -1,0 +1,65 @@
+Each skill has three ranks, with each rank giving you an additional +1 bonus to ability checks made using that skill.
+Skill ranks are purchased with skill points - 1 point per rank. To purchase skill ranks, at least one of your Special 
+attributes related to that skill must have a score of 5 or greater.
+
+Additionally, once a skill has reached all three ranks you can obtain "Expertise" in that skill. Expertise allows you
+to gain up to three additional ranks in that skill, but at a higher cost: Each rank of expertise costs 3 skill points
+instead of 1.
+
+Each time you level up you gain a number of skill points based on your Intelligence score. For a score of 1-6 you gain
+one skill point, from 7-8 you gain two, and from 9-10 you gain three. Raising your Intelligence modifier at a later level
+does not retroactively award additional skill points from previous levels.
+
+Rare skill book exist in the world to found, bought, or claimed in battle. Once read, a skill book grants the reader 1
+free skill point to use as they choose. A skill book can only provide this reward to a single creature before losing its 
+beneficial properties.
+
+Un-spent skill points can be saved for later or spent to purchase a party-wide XP reward. For every skill point spent 
+this way, each adventurer in the party gains (10 * party level) XP.
+
+Strength
+- Athletics
+- Blacksmith (melee weapons and armor)
+- Intimidation
+- Melee Weapons
+- Unarmed
+
+Perception
+- Detection
+- Energy Weapons
+- Guns
+- Gunsmith (ballistic ranged weapons)
+- Lockpick
+
+Endurance
+- Athletics
+- Blacksmith (melee weapons and armor)
+- Leadership
+- Medicine
+- Survival
+
+Charisma
+- Deception
+- Intimidation
+- Insight
+- Leadership
+- Persuasion
+
+Intelligence
+- Energy Weapons
+- Explosives
+- Energysmith (Laser and plasma weapons, power armor)
+- Medicine
+- Science (Hacking, Robotics, etc.)
+
+Agility
+- Guns
+- Lockpick
+- Melee Weapons
+- Sleight of Hand
+- Sneak
+
+Luck
+- Loot
+- Miracle
+- Death saves

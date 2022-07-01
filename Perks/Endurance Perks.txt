@@ -1,0 +1,70 @@
+Toughness (Req. Endurance 1)
+Rank 1: You gain a natural Damage Resistance of 2. This does not stack with Damage Resistance gained from equipment.
+Rank 2: You gain a natural Damage Resistance of 4. This does not stack with Damage Resistance gained from equipment.
+Rank 3: You gain resistance to one damage type of your choice: acid, cold, fire, lightning, poison, or thunder.
+Rank 4: Critical hits against you only use half their normal damage multiplier.
+Rank 5: Critical hits against you become normal hits.
+
+Lead Belly (Req. Endurance 2)
+Rank 1: You take half as much radiation damage from irradiated food and drink.
+Rank 2: You take no radiation damage from irradiated food and drink.
+Rank 3: Alcohol removes twice as much radiation damage.
+Rank 4: Finishing a short rest removes 1d4 radiation damage from you.
+Rank 5: Finishing a short rest counts as a long rest for how much radiation damage you remove.
+
+Lifegiver (Req. Endurance 3)
+Rank 1: You gain an additional 10 hit points.
+Rank 2: You gain an additional 10 hit points.
+Rank 3: In combat, you regenerate a number of hit points equal to your Endurance modifier (minimum of 1) at the start 
+of each of your turns. You can only regenerate hit points lost during that specific combat session; damage carried over
+from events before the combat session cannot be regenerated. 
+
+Chem Resistant (Req. Endurance 4)
+Rank 1: You have advantage on Endurance saving throws made to resist addiction to alcoholic drinks.
+Rank 2: You have advantage on Endurance saving throws made to resist addiction to any chem.
+Rank 3: You are immune to chem addiction.
+Rank 4: You can choose to end the effects of a chem early at the cost of 2 AP.
+Rank 5: You ignore any negative modifiers imposed by chems during their duration.
+
+Aquaboy/Aquagirl (Req. Endurance 5)
+Rank 1: You no longer take radiation damage from swimming, whether you are fully submerged or not.
+Rank 2: The amount of time you can hold your breath is doubled.
+Rank 3: Submerging yourself in water makes you hidden from other creatures. You do not need to succeed an Agility 
+(Stealth) check.
+Rank 4: Your swim speed is always equal to your walking speed. Swimming as a means of travel does not make you more
+pront to exhaustion.
+Rank 5: Being underwater does not impose disadvantage on Perception checks.
+
+Rad Resistant (Req. Endurance 6)
+Rank 1: Per long rest, you ignore the first 4 points of radiation damage you take.
+Rank 2: Per long rest, you ignore the first 8 points of radiation damage you take.
+Rank 3: You have resistance to radiation damage.
+
+Adamantium Skeleton (Req. Endurance 7)
+Rank 1: Choose one limb: left leg, right leg, left arm, right arm, or head. You have advantage on Endurance saving 
+throws to resist the effects of a limb shot to that limb.
+Rank 2: You choose a second limb.
+Rank 3: You choose a third limb.
+Rank 4: You have advantage on Endurance saving throws to resist the effects of a limb shot to any limb.
+Rank 5: You are immune to the effects of limb shots.
+
+Cannibal (Req. Endurance 8)
+Rank 1: You can eat raw animal meat without becoming sick or taking radiation damage.
+Rank 2: You can eat human flesh to regain 1d4 hit points.
+Rank 3: You can eat super mutant flesh to regain 1d4 hit points.
+Rank 4: You can eat ghoul flesh to regain 1d4 hit points.
+Rank 5: Eating human, super mutant, or ghoul flesh heals you 2d4 hit points.
+
+Ghoulish (Req. Endurance 8)
+Rank 1: For every 4 points of radiation damage you take from a individual attack, you heal 1 hit point. This cannot 
+restore health lost due to radiation.
+Rank 2: You heal a number of hit points equal to half the radiation damage you take from an individual attack.
+Rank 3: Healing from radiation attacks can restore health lost due to radiation.
+
+Solar Powered (Req. Endurance 10)
+Rank 1: While in direct sunlight, you gain a +2 bonus to your Endurance.
+Rank 2: While in direct sunlight, you gain a +2 bonus to your Strength.
+Rank 3: While in direct sunlight, you gain 5 temporary hit points for 1 hour. If any of these temporary hit points are 
+lost, you regain them after 1 hour, or the next closest time you are in direct sunlight.
+Rank 4: For each hour spent in direct sunlight, you regain 1 hit point.
+Rank 5: Healing from sunlight can restore health lost due to radiation.

@@ -1,0 +1,26 @@
+Legion mongrels use the stats of normal mongrels.
+
+Legion explorers, "explorators" use the Legionarius stat block. 
+
+Vexillarii (singular Vexillarius) are Legionarii but with a variant ability (list them as a variant in the Legionarius
+stat block).
+
+Sicarii (singular Sicarius) are Legion Assassins.
+
+Legion Gladiators are basically centurions without the leadership abilities.
+
+Light Leather Armor
+Legionarius
+Primus - A decanus' second-in-command.
+Vexillarius
+Sicarius
+
+Medium Leather Armor
+Decanus - Commands a contubernium, a force of 10 warriors (Decanus include).
+Primus Decanus - A centurion's second-in-command and the first among decani in a 
+Praetorian
+
+Heavy Metal Armor
+Gladiator
+Centurion - Commands a centuria, a force of 100 warriors, decani included.
+Legate - Commands a legion, a force of 1,000 warriors, centurions included.

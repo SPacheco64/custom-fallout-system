@@ -1,0 +1,41 @@
+
+NOTE: Material components always weight 0.1 lbs. individually, unless otherwise stated.
+
+
+Name				Cost
+Acid				3 caps
+Adesive				8 caps
+Aluminum			3 caps
+Antiseptic			3 caps
+Asbestos			6 caps
+Ballistic Fiber			5 caps
+Bone				N/A
+Brass				1 cap
+Ceramic				1 cap
+Circuitry			5 caps
+Cloth				1 cap
+Concrete			1 cap
+Copper				4 caps
+Cork				1 cap
+Crystal				4 caps
+Explosive Material		2 caps
+Fertilizer			1 cap
+Fiber Optics			6 caps
+Fiberglass			5 caps
+Gear				3 caps
+Glass				2 caps
+Gold				10 caps
+Lead*				1 cap
+Leather				2 caps
+Nuclear Material		10 caps
+Oil				4 caps
+Plastic				1 cap
+Rubber				2 caps
+Screw				2 caps
+Silver				6 caps
+Spring				3 caps
+Steel				1 cap
+Venom				3 caps
+Wood				1 cap
+
+*Each individual unit of this component weighs 0.5 lbs.

@@ -1,0 +1,72 @@
+Salesperson (Req. Charisma 1)
+Rank 1: When bartering, items cost 10% less for you and you can sell items for 10% more. The caps value of these 
+percentages is based on the standard price listed for that item in the rules.
+Rank 2: When bartering, items cost 20% less for you and you can sell items for 20% more.
+Rank 3: When bartering, you have advantage on Charisma checks for better pricing.
+Rank 4: When bartering, items cost 30% less for you and you can sell items for 30% more.
+Rank 5: When bartering, items cost 40% less for you and you can sell items for 40% more.
+
+Lone Wanderer (Req. Charisma 2)
+Rank 1: When adventuring alone, you have 2 additional AP.
+Rank 2: When adventuring alone, you gain 10 temporary hit points at the end of each long rest.
+Rank 3: Your AP bonus increases to 4 and your temporary hit point bonus increases to 20.
+
+Team Player (Req. Charisma 3)
+Rank 1: When taking the Help action, you can aid a friendly creature in attacking a creature up to 15 feet from you.
+Rank 2: When a friendly creature within 15 feet of you makes an attack or skill check on their turn, you can use the 
+Help action to aid them.
+Rank 3: You can now use the Help action to aid opportunity and overwatch attacks.
+Rank 4: You can take the Help action twice on your turn.
+Rank 5: You can take the Help action so long as you are within 30 feet of either the friendly creature or the target of
+a friendly creature's attack.
+
+Faithful Companion (Req. Charisma 4)
+Rank 1: You can make a creature of the wastes your pet. The creature uses the stats normal for it and acts on its own
+initiative. A party can only have one such pet at a time. Common pets include dogs, mole rats, and radroaches. Consult
+your Overseer on what pet you can have.
+Rank 2: Your pet adds half your Charisma modifier (minimum of 1, round up) to its attack and damage rolls.
+Rank 3: Your pet adds half your Charisma modifier (minimum of 1, round up) to its AC.
+Rank 4: Your pet increases its hit point maximum by an amount equal to your Character level.
+Rank 5: Your pet does not count against the one pet party limit.
+
+Animal Friend (Req. Charisma 5)
+Rank 1: A successful Charisma (Persuasion or Intimidation) check can convince wild dogs to not attack you or your 
+party, unless agitated further.
+Rank 2: Success can now affect irradiated animals (molerats, yao guai, etc.)
+Rank 3: Success can now convince insects (radroaches, stingwings, etc.)
+
+Party Person (Req. Charisma 6)
+Rank 1: You cannot become addicted to chems that increase your Charisma.
+Rank 2: Chems cannot reduce your Charisma.
+Rank 3: Charisma bonuses from chems are doubled.
+Rank 4: When under the influence, your base Luck score is considered doubled for gambling.
+Rank 5: You gain +1 to all SPECIAL attributes whenever under the influence of chems.
+
+Magnetizing (Req. Charisma 7)
+Rank 1: Succeeding a Persuasion check against someone gives you advantage on the next Persuasion check you make against
+them. This effect can chain.
+Rank 2: Succeeding either a Persuasion or Deception check against someone gives you advantage on the next Persuasion or
+Deception check made against them. This effect can chain.
+Rank 3: Rolling a critical success on a Charisma check against a person charms (see condition) them for 1 minute.
+
+Inspirational (Req. Charisma 8)
+Rank 1: When taking the Help action, you can substitute your Leadership skill for whatever skill you would normally
+need to help.
+Rank 2: When taking the Help action, you give the roll advantage, regardless of whether or not it originally had 
+disadvantage.
+Rank 3: When taking the Help action, the other person treats d20 rolls of 4 or lower as a 5.
+
+Team Leader (Req. Charisma 9)
+Rank 1: In combat, you can spend AP to give it to a friendly creature, provided you can see and/or hear each other.
+Rank 2: For every one AP you spend, you can give two AP to the friendly creature.
+Rank 3: Each turn, you can give one friendly creature 2 AP for free, provided you can see and/or hear each other..
+Rank 4: Once per combat, succeed or fail, you can make a contested Charisma (Leadership) check against the hostile 
+creature with the highest Charisma score. On a success, it and all other hostile creatures allied with it lose 2 AP on 
+their next turn.
+Rank 5: So long as you are conscious, allied creatures that can see and hear you have +1 to their AC.
+
+Paladin (Req. Charisma 10)
+Rank 1: So long as you are conscious, whenever an allied creature within 10 feet of you makes a saving throw, they can 
+use your Charisma modifier in place of the modifier they would normally use.
+Rank 2: The radius increases to 20 feet.
+Rank 3: The radius increases to 30 feet.

@@ -1,0 +1,42 @@
+*** Grenades and Explosives ***
+
+Name				Property						Cost		Weight
+Dynamite(N/A)			Special							25 caps		0.5 lbs.
+Molotov(0)			3d6 fire (AGI save to halve)				15 caps		0.5 lbs.
+Baseball Grenade(1)		3d6 ballistic (AGI save to halve)			15 caps		0.5 lbs.
+Bottlecap Mine*(1)		7d6 ballistic (AGI save to halve)			75 caps		0.5 lbs.
+Flashbang(2)			Blinds and deafens (PER save)				30 caps		0.5 lbs.
+Frag Grenade(2)			5d6 ballistic (AGI save to halve)			30 caps		0.5 lbs.		
+Frag Mine*(2)			5d6 ballistic (AGI save to halve)			30 caps		0.5 lbs.
+Poison Gas Grenade(2)		3d6 poison, targets are poisoned (END save)		30 caps		0.5 lbs.
+Smoke Grenade(2)		Area is heavily obscured for two turns			25 caps		0.5 lbs.
+Cryo grenade(3)			3d6 cold, paralyzes (STR save)				45 caps		0.5 lbs.
+Cryo Mine*(3)			3d6 cold, paralyzes (STR save)				45 caps		0.5 lbs.
+Hallucigen Grenade(3)		Frenzies humanoids 1 min. (repeating INT save)		55 caps		0.5 lbs.
+Hyperfrequency Grenade(3)	Frenzies animals 1 min. (repeating INT save)		55 caps		0.5 lbs.
+Plasma Grenade(3)		8d6 plasma (AGI save to halve)				60 caps		0.5 lbs.
+Plasma Mine*(3)			8d6 plasma (AGI save to halve)				60 caps		0.5 lbs.
+Pulse Grenade(3)		3d6 lightning (AGI save to halve)			60 caps		0.5 lbs.
+Pulse Mine*(3)			3d6 lightning (AGI save to halve)			60 caps		0.5 lbs.
+Radiation Grenade(3)		5d6 radiation (END save to halve)			70 caps		0.5 lbs.
+Radiation Mine*(3)		5d6 radiation (END save to halve)			70 caps		0.5 lbs.
+Mini Nuke+			12d8 ballistic, 12d8 radiation (no save)		250 caps	12 lbs.
+Nuka Grenade(4)			8d6 ballistic, 8d6 radiation (no save)			150 caps	0.5 lbs.
+Nuka Mine*(4)			8d6 ballistic, 8d6 radiation (no save)			150 caps	0.5 lbs.
+Satchel charge**(4)		8d6 ballistic (AGI save to halve)			90 caps		0.5 lbs.
+
+Explosives affect creatures and objects in a 10-foot radius unless otherwise specified. Explosives can be thrown a 
+number of feet equal to your Strength score * 5 (minimum 10 feet).
+
+Creatures inside the blast radius of a grenade or explosive that deals ballistic damage are deafened until the start of
+their next turn. This temporary deafness cannot be resisted.
+
+*This weapon does not detonate until at least one creature enters its space or a space immediately adjacent to it.
+** This weapon does not detonate until you spend 1 AP to do so.
+(X) - This symbol denotes what rank of the Demolitions Expert perk is required to craft this explosive, with X being 
+      the rank.
+
+Dynamite: +2d6 ballistic and +5 feet of radius per stick (minimum 2d6 up to 10d6; minimum 10 feet up to 30 feet)
+Nuka Grenade/Mine: This weapon has a blast radius of 20 feet.
+Mini-Nuke: This weapon has a blast radius of 30 feet and can only be thrown half as far as a normal explosive (minimum
+5 feet).

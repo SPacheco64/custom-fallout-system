@@ -1,0 +1,68 @@
+Molotov(0)
+1 bottle of alcohol + 1 cloth = 1 molotov
+1 empty bottle + 1 cloth + 1 fuel = 1 molotov
+2 glass + 1 cloth + 1 fuel = 1 molotov
+
+In place of fuel, 1 adhesive and 1 oil can be used.
+
+Baseball Grenade(1)
+1 baseball + 3 explosive material + 1 spring = 1 baseball grenade
+3 cork + 3 explosive material + 1 spring = 1 baseball grenade
+
+
+Bottlecap Mine(1)
+1 lunchbox + 3 explosive material + 70 caps = 1 bottlecap mine
+
+Flashbang(2)
+2 steel + 2 explosive material = 1 flashbang.
+
+Frag Grenade(2)
+5 steel + 3 explosive material + 1 spring = 1 frag grenade
+
+Frag Mine(2)
+5 steel + 3 explosive material + 1 circuitry = 1 frag mine
+
+Poison Gas Grenade(2)
+2 steel + 1 explosive material + 2 fertilizer + 2 asbestos + 1 spring + 5 venom = 1 poison gas grenade.
+
+Smoke Grenade(2)
+2 steel + 1 explosive material + 2 fertilizer + 2 asbestos + 1 spring = 1 smoke grenade.
+
+Cryo Grenade(3)
+3 acid + 1 adhesive + 3 aluminum + 2 nuclear material + 1 spring = 1 cryo grenade
+
+Cryo Mine(3)
+3 acid + 1 adhesive + 3 aluminum + 2 nuclear material + 2 circuitry = 1 cryo mine
+
+Hallucigen Grenade(3)
+2 aluminum + 1 adhesive + 1 fertilizer + 1 spring = 1 hallucigen grenade
+
+Hyperfrequency Grenade(3)
+2 aluminum + 1 adhesive + 2 copper + 1 circuitry + 1 spring
+
+Plasma Grenade(3)
+1 adhesive + 4 aluminum + 2 circuitry + 3 nuclear material + 1 spring = 1 plasma grenade
+
+Plasma Mine(3)
+1 adhesive + 4 aluminum + 3 circuitry + 3 nuclear material = 1 plasma mine
+
+Pulse Grenade(3)
+1 adhesive + 3 aluminum + 1 circuitry + 2 nuclear material + 1 spring = 1 pulse grenade
+
+Pulse Mine(3)
+1 adhesive + 3 aluminum + 2 circuitry + 2 nuclear material = 1 pulse mine
+
+Radiation Grenade(3)
+1 lead + 3 nuclear material + 1 steel = 1 radiation grenade.
+
+Radiation Mine(3)
+1 lead + 3 nuclear material + 1 steel + 1 circuitry = 1 radiation grenade.
+
+Nuka Grenade(4)
+2 lead + 5 nuclear material + 1 steel + 1 spring = 1 nuka grenade
+
+Nuka Mine(4)
+2 lead + 5 nuclear material + 1 steel + 1 circuitry = 1 nuka grenade
+
+Satchel charge(4)
+4 steel + 2 circuitry + 1 copper + 1 nuclear material = 1 satchel charge

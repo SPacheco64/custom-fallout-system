@@ -1,0 +1,12 @@
+Using chems can grant powerful, even extreme benefits for short periods of time. However, doing so runs the risk of
+becoming addicted to the chem in question. Once the effects of a chem wear off, your character makes an Endurance 
+saving throw; the DC equals 10 + your current Exhaustion level.
+
+On a failure, your character becomes addicted to the specific chem in question. While addicted to a chem, every time
+you finish a long rest without having first taken another dose you must make the same Endurance saving throw as above.
+On a failure, your Exhaustion level goes up by 1. Exhaustion gained this way can only be removed by taking another 
+dose, which removes all levels immediately. If you succeed three of these saving throws in a row, you are no longer
+addicted.
+
+Other means to remove addiction include taking a dose of addictol and visiting a Doctor for rehabilitation. The rehab
+process takes 2d4 days to complete and costs 100 caps for every day taken.

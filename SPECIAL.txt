@@ -1,0 +1,57 @@
+Every being in the world has certain basic attributes that describe what they are capable of. These 
+attributes are Strength, Perception, Endurance, Charisma, Intelligence, Agility, and Luck, or "SPECIAL" 
+for short. 
+
+- Strength: The raw might of a creature
+- Perception: The acuity of a creature's senses (or sensors)
+- Endurance: The hardiness of a creature and its survivability in environments
+- Charisma: A creature's ability to obtain what it wants through interaction
+- Intelligence: The intellectual capacity of a creature
+- Agility: The reflex, motor-precision, and speed of a creature
+- Luck: The general (mis)fortune of a creature
+
+Each of a creature's SPECIAL attributes has a score, a number that defines the magnitude of that 
+attribute. A SPECIAL attribute is not just a measure of innate capabilities, but also encompasses a 
+creature's training and competence in activities related to that ability.
+
+A score of 4-6 is the normal human average, but adventurers and many others are a cut above (or below)
+average in most attributes. Most beings cannot surpass a SPECIAL score higher than 10 in any attribute,
+but their are certain creatures who balk at such limitations.
+
+Each SPECIAL attribute also has a modifier, derived from the score and ranging from -4 (for an ability 
+score of 1) to +15 (for a score of 30). Most creatures will not exceed +5 (for a score of 10). These
+modifiers are then added to every ability check made by that creature, in addition to any applicable 
+skills. For example, Kayleigh has an Intelligence score of 8 (+3) and a Science score of 2 (+2). This 
+means she adds a total of +5 to Intelligence (Science) checks. 
+
+The easiest way to calculate a modifier for a SPECIAL score is determine the difference between it and
+a score of 5.
+-> 1 - 5 = -4
+-> 8 - 5 = +3
+-> 5 - 5 = +0
+
+Certain abilities and effects can increase or decrease SPECIAL scores. Some temporarily, others 
+permanently. Some examples are below:
+- At 4th, 8th, 12th, 16th, and 20th level you may increase one of your SPECIAL scores by 1.
+- Your character drinks beer, a chem which increases your Strength score by 1 and decreases your 
+  Perception score by 1. After an hour, these changes wear off.
+- Your character fails their Death Saves, but your Overseer allows you to survive in exchange for a 
+  permanent -2 decrease to your Luck score.
+
+If any of a creature's SPECIAL scores become 0 for any reason or amount of time, they instantly die
+except where explicitly stated otherwise or by decision of the Overseer.
+
+At character creation, your character starts with a pool of 40 SPECIAL points you can allocate to each
+attribute as you wish. However, the following should be observed:
+- No score can exceed 10 or start lower than 1.
+- No score should be set higher than 8 or lower than 3 without consulting your Overseer. For example,
+  creating a Strength 9, Charisma 2 character may not be fun in a roleplay-heavy campaign.
+- Don't spread your points thin so that all your scores land between 4-6. This is a cooperative game
+  where a team should have diverse strengths and weaknesses. A group of Average Joe's will perform poorly
+  and largely rely on the whim of random dice rolls.
+
+
+So, what makes you SPECIAL*? 
+
+
+*User's specialness not actually guaranteed by this product.

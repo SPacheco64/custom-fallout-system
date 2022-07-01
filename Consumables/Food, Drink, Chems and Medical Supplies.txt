@@ -1,0 +1,97 @@
+The abbreviation "irr." means "irradiated."
+
+
+*** Food ***
+
+Name				Property						Cost		Weight
+Blamco Mac and Cheese		+3 damage with explosives				10 caps		0.1 lbs.
+Big Pop Bubblegum		Heal 1 hit point					5 caps		0.1 lbs.
+Cooked food*			Heal 1d6 hit points					20 caps		1 lb.
+Cotton Candy Bites		+1 Luck							7 caps		0.1 lbs.
+Cram*				+1 Endurance						25 caps		0.1 lbs.
+Dandy Boy Apples		+1 Intelligence						7 caps		0.1 lbs.
+Fancy Lads Snack Cakes		+1 Charisma						18 caps		0.1 lbs.
+Glowing Fungus			Heal 1d4 radiation damage				3 caps		0.1 lbs.
+InstaMash			gain 3 temporary hit points				19 caps		0.1 lbs.
+Institute Food Ration*		Satisfies all daily hunger				36 caps		0.1 lbs.
+Irr. Food*			Heal 1d6 hit points, 2d4 radiation damage		10 caps		1 lb.
+K-Ration*										15 caps		0.1 lbs.
+Pork n' Beans			+1 Strength						12 caps		0.1 lbs.
+Potato Crisps										7 caps		0.1 lbs.
+Salisbury Steak*									20 caps		0.1 lbs.
+Slocum's BuzzBites		+1 Perception						22 caps		0.1 lbs.
+Sugar Bombs			+1 Agility						24 caps		0.1 lbs.
+Uncooked food* 			Heal 1d6 hit points, 1d4 radiation damage		15 caps		1 lb.
+Yum Yum Deviled Eggs		Addictive						11 caps		0.1 lbs.
+
+*This food counts as a meal for the purposes of satisfying daily hunger.
+
+
+*** Drink ***
+
+Name				Property						Cost		Weight
+Dirty Water*			1d4 radiation damage					5 caps		0.5 lbs.
+Cherry Nuka-Cola		Restore all AP on your turn, 1d4 radiation damage	24 caps		1 lb.
+Coffee				Temporarily ignore one level of exhaustion (1 hr.)	19 caps		0.1 lbs.
+Grape Nuka-Cola			Radiation immunity (1 hr.)				60 caps		1 lb.
+Irr. Water*			Take 2d4 radiation damage				1 cap		0.5 lbs.
+Orange Nuka-Cola		+2 AP (1 min.), 1d4 radiation damage			40 caps		1 lb.
+Quantum Nuka-Cola		Restore all health and AP on your turn			300 caps	1 lb.
+Quartz Nuka-Cola		Gain Darkvision out to 60 ft.				21 caps		1 lb.
+Sunset Sarsaparilla		Luck (Loot) roll to give a Star bottle cap		11 caps		1 lb.
+Victory Nuka-Cola		Restore all health, AP, and radiation damage		450 caps	1 lb.
+Nuka-Cola			+1 AP (1 min.), 1d4 radiation damage			10 caps		1 lb.
+Purified Water*										20 caps		0.5 lbs.
+
+*This drink counts toward your drinking needs.
+
+
+*** Chems ***
+
+Name				Property						Cost		Weight
+Beer				+1 STR, -1 PER (1 hr.)					9 caps		1 lb.
+Buffout				+2 STR, +2 END (1 min.)					33 caps		0.1 lbs.
+Calmex				PER +3, AGI +3 (1 min.)					72 caps		0.1 lbs.
+Cat-Eye				Gain Darkvision out to 60 ft. (1 hour.)			17 caps		0.1 lbs.	
+Daddy-O				+3 PER, -2 CHA, +3 INT (1 min.)				64 caps		0.1 lbs.
+Dark Nuka-Cola			+1 STR, +1 END, -1 PER (1 hr.), 1d4 radiation damage	13 caps		1 lb.			
+Day Tripper			STR -2, CHR +3, LCK +3 (1 min.)				77 caps		0.1 lbs.
+Dirty Wastelander		+3 STR, +1 CHR, -2 INT, Gain 10 temp hp (1 hr.)		51 caps		1 lb.
+Fury*				PER -5, Double melee and unarmed damage (1 min.)	93 caps		0.1 lbs.
+Gwinnett Ale			+1 STR, +1 CHA, -1 INT (1 hr.)				9 caps		1 lb.
+Grape Mentats*			+5 INT (1 min.)						142 caps	0.1 lbs.
+Jet				+2 AP (1 min.)						49 caps		0.1 lbs.
+Jet Fuel*			+3 AP (1 min.)						58 caps		0.1 lbs.
+Mentats				+3 INT (1 min.)						71 caps		0.1 lbs.
+Overdrive*			Attacks are critical hits on rolls of 18-20 (1 min.)	111 caps	0.1 lbs.
+Psycho				Attacks deal 2 additional damage dice (1 min.)		51 caps		0.1 lbs.
+Ultra Jet*			+5 AP (1 min.)						213 caps	0.1 lbs.
+Vodka				+1 STR, -1 INT, Gain 10 temporary hit points (1 hr.)	5 caps		1 lb.
+Wine				+1 CHR, -1 INT (1 hr.)					14 caps		1 lb.
+X-Cell				+2 to all SPECIAL scores (1 hr.)			???		0.1 lbs.
+
+*This chem is only craftable
+Using a chem before another chem's duration is over forces you to make an Endurance saving throw. On a failure, your
+character overdoses and falls to 0 hit points. If this happens you being making death saving throws like normal.
+
+*** Medical Supplies ***
+
+Name			Property					Cost		Weight
+Addictol		Cures all addictions after long rest		125 caps	0.1 lbs.
+Antibiotics		Cures all diseases after long rest		75 caps		0.1 lbs.
+Antimicrobial		Adv. on saves against disease (1 hr.)		30 caps		0.1 lbs.
+Blood Pack		Bonus hit die during a short rest		30 caps		0.1 lbs.
+Med-X*			Gain 3 Damage Resistance (1 min.)		30 caps		0.1 lbs.
+Rad-Away		Remove 2d6 radiation damage			80 caps		0.1 lbs.
+Rad-X			Gain radiation resistance (1 hr.)		40 caps		0.1 lbs.
+Stimpak			Heal 2d6 hit points				40 caps		0.1 lbs.
+Super Stimpak		Heal to full health - radiation damage		225 caps	1 lb.
+X-111 Compound		Removes all radiation damage			350 caps	1 lb.
+
+*Though not listed as a chem, Med-X can addict your character.
+
+
+*** Miscellaneous ***
+
+Name		Property				Cost		Weight
+Repair Kit	Heal 2d6 hit points (robot only)	40 caps		0.1 lbs.

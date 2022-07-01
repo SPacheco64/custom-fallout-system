@@ -1,0 +1,38 @@
+
+*** Sane Perks ***
+
+An Incomparable, Irreplaceable Will: You have advantage on all Sanity saving throws, but you can no longer increase
+your Sanity. Your mind is an iron fortress, but iron is hard to come by these days, and repairs would take more time
+than you have.
+
+Equilibrium: Critical hits against you are converted into normal hits. Likewise, your critical hits become normal hits.
+Surviving with your identity intact is all about maintaining balance in everything you do.
+
+Just Lucky I'm Alive: When you fail a Sanity saving throw, you can choose to decrease your Luck score instead. You do
+your best to simply count your blessings in the midst of all this...but you've only got so many blessings.
+
+Pacifist: So long as you have not intentionally harmed or attempted to harm any creature during a combat, you 
+automatically succeed the Sanity saving thrown when it ends. In a land of violence, your hands will stay clean.
+
+Positive Thinking: You have advantage on Charisma checks, but disadvantage on Perception checks and your Passive
+Perception is reduced by 5. Why stay on watch? You're sure everything will work out.
+
+*** Insane Perks ***
+
+Communistic Wisdom: True wisdom fosters true learning: you gain twice as many points from skill magazines and books. 
+You refuse to barter, buy, or sell anything with other creatures, lest capitalism infest your soul. 
+
+Arthurian Legend: You have advantage on melee attacks and their hits deal the maximum damage possible for their dice. 
+Your honor as a knight demands you never again use chems, ranged weapons, or explosives. One day, you will unite the 
+peoples of this great land.
+
+Monster Hunter: You deal double damage to supernatural enemies and half damage to normal ones. Mortals are unwitting
+pawns in a greater game; it is the monsters and demons of this world who must pay for their crimes.
+
+The Scurrier: Your movement speed increases by 15 feet when wearing light armor. You can climb difficult surfaces,
+including vertical walls, without needing to make an ability check. To survive like the radroach, you must become like
+the radroach.
+
+Vermin Lord: You can talk to rats and mole rats, who are no longer hostile to you; they can be persuaded to come to
+your aid. Once per week, you can summon Vermin Supreme, an immortal and indestructible rat of gargantuan proportions,
+to aid you in a single battle. Your children understand this new world

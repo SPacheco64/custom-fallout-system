@@ -1,0 +1,26 @@
+Wielding power armor does not require a particular Strength score; rather, it increases your Strength and Endurance
+each to a specific score indicated in the Str/End column. The cost column is the price of a full suit of armor pieces
+for that kind of power armor - it does not include the price of the power armor frame, which is listed separately.
+
+While worn, power armor increases the your size to Large. If powered by a fusion core charge, you are also not 
+encumbered while wielding a Heavy weapon.
+
+Armor Name		Armor Class (AC)	Str/End		Stealth		Cost		Weight (0 with core)
+Power Armor Frame	8 + AGI Modifier	  10		   -		1500 caps	100 lbs.
+Junk/Raider		      12		  10	      Disadvantage	450 caps	100 lbs.
+Overboss		      15                  11          Disadvantage      550 caps        150 lbs.
+T-45			      15		  11	      Disadvantage	600 caps	92 lbs.
+T-51			      17		  12	      Disadvantage	780 caps	100 lbs.
+T-60			      20		  13	      Disadvantage	960 caps	120 lbs.
+X-01			      22		  15	      Disadvantage	1220 caps	150 lbs.
+X-02			      20		  13*		   -		1500 caps	115 lbs.
+X-03			      23**		  15	      Disadvantage	1800 caps	170 lbs.
+I-01			      25		  15*		   -		3000 caps	90 lbs.
+
+*While worn, your Agility score is additionally raised to 6, if it isn't already 6 or higher.
+**While worn, you have resistance to fire damage.
+
+Radiation Resistance: T-45, T-51, and T-60 power armor offer resistance to Radiation damage when powered by a fusion
+core.
+Radiation Immunity: X-01, X-02, X-03, and I-01 power armor offer immunity to Radiation damage when powered by a fusion
+core.

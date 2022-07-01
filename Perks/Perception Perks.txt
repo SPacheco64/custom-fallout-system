@@ -1,0 +1,86 @@
+Swivel-Head (Req. Perception 1)
+Rank 1: Your passive Perception increases by +1.
+Rank 2: Your passive Perception increases by +1. Traveling at a fast pace no longer lowers your passive Perception.
+Rank 3: You have advantage on Perception (Search) checks made to find hidden traps and explosives, such as mines.
+Rank 4: You can't be surprised while you are conscious.
+Rank 5: You gain a +5 bonus to initiative.
+
+Rifleman (Req. Perception 2)
+Rank 1: You have +1 to attack rolls made with non-automatic, twohanded ranged weapons (henceforth referred to as
+"rifles"). Damage rolls made with rifles ignore up to 2 points of Damage Resistance and Damage Threshold.
+Rank 2: Your rifle attacks deal +1 damage. Damage rolls made with rifles ignore up to 4 points of Damage Resistance and
+Damage Threshold.
+Rank 3: You have +2 to attack rolls made with rifles. Your attacks with rifles always ignore at least half of the 
+target's Damage Resistance and Damage Threshold.
+Rank 4: Your rifle attacks deal +2 damage. Critical hits with rifles stun the target until the start of your next turn.
+Rank 5:  You have +3 to attack rolls made with rifles and they deal +3 damage. Your attacks with rifles ignore the 
+target's Damage Resistance and Damage Threshold.
+
+Gun Nut (Req. Perception 3)
+Rank 1: You can craft ballistic ammo and rank 1 firearm mods.
+Rank 2: You can craft rank 2 firearm mods.
+Rank 3: You can craft rank 3 firearm mods.
+Rank 4: You can craft rank 4 firearm mods.
+Rank 5: You can attempt a DC 25 Perception (Gunsmith) ability check once per week. On a success, you can craft a 
+single legendary modification for a firearm you choose at the time of the roll. No weapon can have more than one 
+legendary modification, and you cannot transfer the modification to a different weapon later.
+
+Locksmith (Req. Perception 4)
+Rank 1: Picking a very easy lock (DC 5 or lower) automatically succeeds.
+Rank 2: Picking an easy lock (DC 10 or lower) automatically succeeds.
+Rank 3: Picking an advanced lock (DC 15 or lower) automatically succeeds.
+Rank 4: Picking an expert lock (DC 20 or lower) automatically succeeds.
+Rank 5: You have advantage on rolls to pick master locks (DC 20+).
+
+Skeet Shooter (Req. Perception 5)
+Rank 1: When a creature makes a thrown weapon attack or throws a grenade, you can interrupt and spend the AP necessary 
+to attack with a ranged weapon in your hands, if any, to destroy the projectile. You make the attack roll with 
+disadvantage and on a hit the thrown weapon is knocked off course harmlessly, or if a grenade, it detonates halfway 
+toward its intended destination.
+Rank 2: You can now make this attack to stop a projectile in your weapon's long range.
+Rank 3: This attack no longer has disadvantage.
+Rank 4: When you successfully hit a thrown weapon with this attack, you can choose for it to ricochet toward a target
+of your choice within 20 feet of you or the creature that threw the weapon. The weapon automatically hits and deals
+normal damage to that creature.
+Rank 5: When you successfully hit a grenade with this attack, it detonates in the face of the creature throwing it.
+
+Night Person (Req. Perception 6)
+Rank 1: Dim light does not impose disadvantage on your Perception checks that rely on sight.
+Rank 2: You treat darkness as dim light out to 60 feet.
+Rank 3: While in moonlight you have a +2 to your passive Perception.
+Rank 4: While in moonlight you have advantage on Perception checks that rely on sight.
+Rank 5: While in moonlight your visibility is equivalent to what a normal person would have in broad daylight.
+
+Lobber (Req. Perception 7)
+Rank 1: Attacking at long range with a thrown weapon doesn't impose disadvantage.
+Rank 2: You can throw grenades and weapons twice as far.
+Rank 3: You can bounce a grenade off of one surface to have it land somewhere you can't directly throw it to, at the
+Overseer's discretion.
+Rank 4: Thrown weapons ignore half a target's Damage Resistance and Damage Threshold.
+Rank 5: When blinded you can still make thrown weapon attacks as though you weren't blinded.
+
+Sniper (Req. Perception 8)
+Rank 1: Attacking at long range with a scoped weapon doesn't impose disadvantage.
+Rank 2: Holding your breath with a scoped weapon to gain advantage on the next attack roll only costs 1 AP instead of 
+2.
+Rank 3: The first time you hold your breath on a turn it costs 0 AP.
+Rank 4: Holding your breath always costs 0 AP.
+Rank 5: Once per turn, you can spend 2 AP to make an attack deal its maximum damage for its damage roll. You must spend
+this AP before you know the outcome of the roll.
+
+Penetrator (Req. Perception 9)
+Rank 1: Your attacks ignore half-cover.
+Rank 2: Your attacks ignore three-quarters cover.
+Rank 3: At the Overseer's discretion, you can attack a creature with full cover using a firearm. This attack has 
+disadvantage.
+Rank 4: When you make a firearm attack against a creature, you can spend 2 AP to attempt to fire through multiple 
+opponents. The initial attack gains a +1 to the firearm’s misfire score. On a hit, the creature suffers normal damage 
+and you make an attack roll with disadvantage against every creature in a line directly behind the target within your 
+first range increment. Only the initial attack can misfire.
+Rank 5: When you fire through multiple opponents, the first creature after your original attack's target is 
+automatically hit as well.
+
+Concentrated Fire (Req. Perception 10)
+Rank 1: Attacking a creature's arms or legs does not impose disadvantage.
+Rank 2: Attacking a creature's head does not impose disadvantage.
+Rank 3: Once per combat, you can spend 2 AP to make a body part attack turn into a critical hit automatically.

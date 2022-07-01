@@ -1,0 +1,2 @@
+Securitrons are a WEALTH of valuable ammo. When one is looted it should provide 9mm, MF cells, frag grenades, and
+missiles. Raider securitrons, however, may have been stripped already of all their ammo save the 9mm.

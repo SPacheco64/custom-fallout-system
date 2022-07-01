@@ -1,0 +1,62 @@
+Fortune Finder (Req. Luck 1)
+Rank 1: When looting for caps, you roll 3d6 to determine the number found, rather than 3d4.
+Rank 2: When looting for caps, you roll 3d8 to determine the number found.
+Rank 3: When looting for caps, you roll 3d10 to determine the number found.
+Rank 4: When looting for caps, every die you roll a 10 on generates another 5 caps.
+Rank 5: When looting for caps, you can treat every die roll of 4 or lower as a 5.
+
+Scrounger (Req. Luck 2)
+Rank 1: When looting for ammo, you roll 2d6 to determine the number found, rather than 2d4.
+Rank 2: When looting for ammo, you roll 2d8 to determine the number found.
+Rank 3: When looting for ammo, you roll 2d10 to determine the number found. You can specify one of the dice rolled to
+generate a specific kind of ammo.
+Rank 4: When looting for ammo, you add your two times your Luck modifier to the total rolled (minimum of 2).
+Rank 5: When looting for ammo, every die you roll a 10 on generates one random explosive.
+
+Bloody Mess (Req. Luck 3)
+Rank 1: Your critical hit damage multiplier increases by 1 for all weapons.
+Rank 2: Your critical hit damage multiplier increases by 1, again, for all weapons.
+Rank 3: Your critical hit damage multiplier increases by 1, again, for all weapons.
+
+Mysterious Stranger (Req. Luck 4)
+Rank 1: When you land a critical hit, roll a second d20. On a roll of 20, a mysterious stranger appears and attacks 
+the same target, killing them instantly.
+Rank 2: The stranger now appears when the second d20 lands on an 18-20.
+Rank 3: The stranger now appears when the second d20 lands on a 16-20.
+
+Idiot Savant (Req. Luck 5, Intelligence < 5)
+Rank 1: When you roll a critical success on an abilty check, you and the party gain bonus XP equal to 2 * your party
+level. This can trigger a number of times equal to your Luck modifier per long rest.
+Rank 2: The XP bonus increases to 3 * your party level.
+Rank 3: The XP bonus increases to 5 * your party level.
+
+Four Leaf Clover (Req. Luck 6)
+Rank 1: Once per day, you can give yourself or a creature you can see advantage on a roll.
+Rank 2: Twice per day, you can give yourself or a creature you can see advantage on a roll.
+Rank 3: Thrice per day, you can give yourself or a creature you can see advantage on a roll.
+
+Critical Banker (Req. Luck 7)
+Rank 1: When you roll a critical success on an ability check or attack roll, you can choose to save the critical for a
+later ability check or attack roll. Doing so makes your current roll a normal success. A critical saved this way is 
+lost at the end of your next long rest.
+Rank 2: You can now save up to 2 criticals at a time.
+Rank 3: You can now save up to 3 criticals at a time. You can save criticals up to 24 hours, or until the end of your
+next long rest, whichever happens last.
+
+Grim Reaper's Sprint (Req. Luck 8)
+Rank 1: Killing a creature with a critical hit refunds the Action Points spent to make the attack.
+Rank 2: Killing a creature with a critical hit refunds you two times the Action Points spent to make the attack. You 
+cannot exceed your Action Point maximum this way.
+Rank 3: Killing a creature with a critical hit refunds all Action Points spent this round.
+
+Better Criticals (Req. Luck 9)
+Rank 1: When you make an attack it is considered a critical hit on a roll of 19-20 on the d20.
+Rank 2: When you make an attack it is considered a critical hit on a roll of 18-20 on the d20.
+Rank 3: Once per long rest, you can choose for one attack made by you or a non-hostile creature you can see to 
+automatically result in a critical hit. This cannot trigger the Mysterious Stranger perk.
+
+Ricochet (Req. Luck 10)
+Rank 1: When a creature rolls a critical failure on an attack roll targeting you with a ranged weapon, the attack 
+instead hits them, dealing normal damage.
+Rank 2: The ricocheted attack is now considered a critical hit.
+Rank 3: The ricocheted attack can now instantly kill the attacking creature, at the Overseer's discretion.

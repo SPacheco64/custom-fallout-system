@@ -1,0 +1,26 @@
+Armor Name		Armor Class (AC)	Strength	Stealth		Cost		Weight
+Junk/Raider		6 + Agi modifier	   -		   -		46 caps		19 lbs.
+Leather			7 + Agi modifier	   -		   -		61 caps		13 lbs.	
+Chinese Stealth Suit	7 + Agi modifier	   -		   *		750 caps	24 lbs.
+Metal			8 + Agi modifier	   -		   -		100 caps	18 lbs.
+Ranger Combat Armor**	9 + Agi modifier	   -		   -		132 caps	23 lbs.
+Combat Armor		10 + Agi modifier	   -		   -		170 caps	25 lbs.
+Robot Scrap		11 + Agi mod (Max 3)	   5		   -		112 caps	30 lbs.
+
+*Moving stealthily while wearing a Chinese Stealth Suit grants the wearer invisibility (consumes 1 MF cell per use).
+**Clothing cannot be worn underneath this armor.
+
+Robots
+Armor Name		Armor Class (AC)	Strength	Stealth		Cost		Weight
+Junk Plate (0)		     +1 AC		   -		   -		Crafted		20 lbs.
+Improved Plate (0)	     +2 AC 		   -		   -		Crafted		25 lbs.
+Stealth Plate (3)	     +2 AC		   -		   *		Crafted		25 lbs.
+Custom Chassis (1)	     +3 AC		   -		   -		Crafted		30 lbs.
+Actuated Chassis (1)	     +4 AC		   -		   -		Crafted		35 lbs.
+Hydraulic Chassis (2)	     +5 AC		   -		   -		Crafted		-20 lbs.
+Voltaic Chassis (2)	     +5 AC**		   5		   -		Crafted		40 lbs.
+
+*Moving stealthily while wearing Stealth Plate grants the wearer invisibility (consumes 1 MF cell per use).
+**With this armor equipped, you no longer have vulnerability to lightning damage.
+
+(X) - This symbol denotes what rank of the Armorer perk is required to craft this armor, with X being the rank.
