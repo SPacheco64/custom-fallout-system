@@ -1,0 +1,40 @@
+An Auto-Doc (an abbreviation of "Automatic Doctor") is a miracle of pre-War medical technology - a device capable of 
+performing even the most complex medical procedures without qualified medical personnel. Even for a talented physician,
+these are invaluable aids. 
+
+When using an Auto-Doc, it can perform one service on the patient at a time (and only one patient at a time). The each
+service requires a certain amount of time to complete with different Auto-Doc versions requiring different amounts.
+
+Mark-I Auto-Doc
+- Restore all health: 10 minutes
+- Remove all radiation damage: 1 hour
+- Reduce Exhaustion level by 1: 1 hour (cannot be safely repeated by patient for 24 hours)
+- Cure addiction: 8 hours
+- Install cybernetic implant: varies (requires surgeon assistance)
+
+The original, and most imperfect Auto-Doc. It is still by most metrics a technological marvel and saw great use pre-war.
+
+Mark-III Auto-Doc
+- Restore all health: 5 minutes
+- Remove all radiation damage: 30 minutes
+- Reduce Exhaustion level by 1: 1 hour (cannot be safely repeated by patient for 24 hours)
+- Cure addiction: 4 hours
+- Install cybernetic implant: varies (requires surgeon assistance)
+
+With the Mark-II never seeing a public release, the Mark-III represented a huge leap forward in the series' development
+and quickly overtook the Mark-I's in medical facilities that could afford them. Faster, more accurate, and with
+interchangeable parts to lessen maintenance complications, the Mark-III was the most common pre-war Auto-Doc.
+
+Mark-IX Auto-Doc
+- Restore all health: 1 minute
+- Remove all radiation damage: 10 minutes
+- Reduce Exhaustion level by 1: 30 minutes (cannot be safely repeated by patient for 24 hours)
+- Cure addiction: 1 hour
+- Install cybernetic implant: varies
+
+The Mark-IV and V Auto-Docs were primarily European releases offering incremental improvements. Deemed insufficient to 
+profit in a market already saturated with Mark-I's and III's, Americans never saw them in use. The Mark-VI was a special
+research variant meant more for autopsy, dissection, and medical discovery than general healthcare. And both the 
+Mark-VII and VIII were so expensive only the President and the extremely wealthy had their hands on any. The Mark-XI was
+no different than its two predecessors, but truly pushed the technology to its next evolution and saw moderate use by 
+the Enclave.
