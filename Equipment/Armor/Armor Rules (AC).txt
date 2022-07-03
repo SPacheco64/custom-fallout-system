@@ -15,15 +15,19 @@ Without armor or a shield, your character’s AC equals 5 + his or her Agility m
 wears armor, carries a shield, or both, calculate your AC using the rules in the Equipment section. Record your AC on 
 your character sheet.
 
+
 Strength Requirement. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If 
 the Armor table shows a Strength requirement in the Strength column for an armor type, the armor reduces the wearer's 
 speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
+
 Stealth. If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Agility
 (Stealth) checks.
 
+
 Shields. A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class 
 by an amount specified by that shield. You can benefit from only one shield at a time.
+
 
 Mods. Armor can have modifications added to them, ranging from extra carrying capacity to powerful optical sensors. 
 Each section of your body can have a modification added to it: each leg, each arm, your torso, and your head. No 

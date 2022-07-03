@@ -1,0 +1,8 @@
+A creature's action points are simple to determine. Simply add 5 to the creature's Agility score modifier:
+-> -4 + 5 = 1
+-> 3 + 5 = 8
+-> 0 + 5 = 5
+
+Player characters are unique in that their AP pool is at minimum 5 points regardless of their Agility score. For 
+example, a super mutant player character whose Agility score is 4 (modifier of -1) would still have 5 AP in their pool.
+A character can still have fewer than 5 AP if a status effect directly tells them to lower their AP pool amount.
