@@ -1,0 +1,7 @@
+Whenever a creature relies on its natural weapons (biting, clawing, stinging) it is treated as a one handed unarmed
+strike, meaning:
+- The attack costs 2 AP
+- The attack uses Strength as the to hit modifier
+- The attack deals 1d4 + Strength modifier in ballistic damage
+
+Some creatures deviate from this, in which case they will have special rules listed in their stat block.
