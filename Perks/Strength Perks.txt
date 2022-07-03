@@ -60,15 +60,15 @@ and damage threshold, if any.
 Rank 5: You have +2 to attack and damage rolls made using weapons with the Heavy property.
 
 Strong Back (Req. Strength 6)
-Rank 1: You gain +25 pounds of carry weight to your maximum.
-Rank 2: You gain +50 pounds of carry weight to your maximum.
+Rank 1: You gain +25 pounds of carrying capacity.
+Rank 2: You gain +50 pounds of carrying capacity.
 Rank 3: Being Encumbered does not reduce your travel speed or make you more prone to exhaustion.
 Rank 4: Being Heavily Encumbered does not reduce your travel speed or make you more prone to exhaustion.
 Rank 5: Your base carrying capacity (before modifiers) is now your Strength score multiplied by 15.
 
 Blitz (Req. Strength 7)
-Rank 1: When you attack with a weapon (melee, ranged, or unarmed) you can also take one Move action for free. Doing so 
-imposes disadvantege on the attack. You can only do this once per round.
+Rank 1: When you attack with a weapon (melee, ranged, or unarmed) you can also take one Move action for free as part of 
+the attack. Doing so imposes disadvantege on the attack. You can only do this once per round.
 Rank 2: Blitz attacks no longer have disadvantage.
 Rank 3: You can now make two blitz attacks per round.
 Rank 4: Blitz attacks now have advantage.

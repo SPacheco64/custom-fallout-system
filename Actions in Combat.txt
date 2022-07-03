@@ -58,9 +58,9 @@ hiding. If you succeed, you gain certain benefits, as described in the "Unseen A
 and Vision.
 
 
-*** Move (1 AP) ***
+*** Move (2 AP) ***
 When you take this action, you can move a distance equal to your movement speed. On a grid, each space is 5 feet, so a
-movement speed of 15 feet would let you move 3 spaces for every 1 AP you spend. Your movement speed may change 
+movement speed of 15 feet would let you move 3 spaces for every 2 AP you spend. Your movement speed may change 
 depending on the circumstances, such as if you are moving through difficult terrain or swimming instead of walking.
 
 
