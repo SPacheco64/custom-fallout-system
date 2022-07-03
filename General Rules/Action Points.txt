@@ -1,8 +1,13 @@
-A creature's action points are simple to determine. Simply add 5 to the creature's Agility score modifier:
+Action Points (AP) are a pool you draw from during combat to determine what, and how much you can do during your turn
+in a single round of combat. For a full list of what you can do in combat, see "Actions in Combat" in the "General 
+Rules" folder.
+
+A creature's Action Points are simple to determine. Simply add 5 to the creature's Agility score modifier:
 -> -4 + 5 = 1
 -> 3 + 5 = 8
 -> 0 + 5 = 5
 
 Player characters are unique in that their AP pool is at minimum 5 points regardless of their Agility score. For 
 example, a super mutant player character whose Agility score is 4 (modifier of -1) would still have 5 AP in their pool.
-A character can still have fewer than 5 AP if a status effect directly tells them to lower their AP pool amount.
+A character can still have fewer than 5 AP if a status effect directly tells them to lower their AP pool amount and
+doing so would bring them to less than 5.
