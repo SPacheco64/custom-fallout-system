@@ -25,10 +25,10 @@ Rank 2: The stranger now appears when the second d20 lands on an 18-20.
 Rank 3: The stranger now appears when the second d20 lands on a 16-20.
 
 Idiot Savant (Req. Luck 5, Intelligence < 5)
-Rank 1: When you roll a critical success on an ability check, you and the party gain bonus XP equal to 2 * your party
+Rank 1: When you roll a critical success on an ability check, you and the party gain bonus XP equal to 5 * your party
 level. This can trigger a number of times equal to your Luck modifier per long rest.
-Rank 2: The XP bonus increases to 3 * your party level.
-Rank 3: The XP bonus increases to 5 * your party level.
+Rank 2: The XP bonus increases to 7 * your party level.
+Rank 3: The XP bonus increases to 10 * your party level.
 
 Four Leaf Clover (Req. Luck 6)
 Rank 1: Once per day, you can give yourself or a creature you can see advantage on a roll.

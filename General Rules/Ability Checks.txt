@@ -1,0 +1,27 @@
+An ability check tests a creature's innate talent and training in an effort to overcome a challenge. The Overseer calls 
+for an ability check when a creature attempts an action (other than an attack) that has a chance of failure. When the 
+outcome is uncertain, the dice determine the results.
+
+For every ability check, the Overseer decides which of the six abilities is relevant to the task at hand and the 
+difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical 
+Difficulty Classes table shows the most common DCs.
+
+Every time a player character succeeds on an ability check, each individual member of the party receives XP based on
+the Difficulty Class. For DC 0-5 they gain 5 XP, for DC 6 - 10 they gain 10 XP, etc. The full breakdown is included in
+the Typical Difficulty Classes table below.
+
+Ability checks using Luck as their SPECIAL score do not award XP on a success, unless otherwise stated.
+
+Task Difficulty	DC
+Very easy		5	5 XP
+Easy			10	10 XP
+Medium			15	15 XP
+Hard			20	20 XP
+Very hard		25	25 XP
+Nearly impossible	30	30 XP
+
+To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and 
+penalties (such as your skill bonus), and compare the total to the DC. If the total equals or exceeds the DC, the ability
+check is a success; the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the creature 
+makes no progress toward the objective or the outcome is not exactly what the creature intended; there is a setback or
+complication of some sort.

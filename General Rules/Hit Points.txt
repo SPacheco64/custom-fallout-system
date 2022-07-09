@@ -6,8 +6,8 @@ character levels up, they gain a number of hit points equal to their Endurance m
 increases their Endurance modifier at a later level, they retroactively gain any hit points they would've had if their
 Endurance modifier was always this high.
 
-For example, a character at 4th level who increases their Endurance by 1 would gain 4 hit points - one for every every 
-level they have.
+For example, a character at 4th level who increases their Endurance by 1 would gain 4 more hit points - one for every 
+every level they have.
 
 Hit Dice
 A character has a number of hit dice equal to their level, and can spend them during a short or long rest to regain 
