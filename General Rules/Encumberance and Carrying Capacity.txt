@@ -4,11 +4,11 @@ Your Strength score determines the amount of weight you can bear. The following 
 Carrying Capacity. Your carrying capacity is your Strength score multiplied by 10. This is the weight (in pounds) 
 that you can carry. Beyond this you cannot physically carry anything. Items that increase your carrying capacity also 
 increase this limit.
-- If your carry weight in excess of 5 times your Strength score, you are encumbered, which means your speed drops by 5
-feet. Items that increase your carrying capacity also increase this limit.
-- If your carry weight in excess of 7 times your Strength score, up to your maximum carrying capacity, you are instead 
-heavily encumbered, which means your speed drops by 10 feet and you have disadvantage on ability checks, attack rolls, 
-and saving throws that use Strength, Agility, or Endurance. 
+- If your carry weight in excess of 7 times your Strength score, you are encumbered: your speed drops by 5 feet. Items 
+that increase your carrying capacity also increase this limit.
+- If your carry weight in excess of 9 times your Strength score, up to your maximum carrying capacity, you are instead 
+heavily encumbered. Your speed drops by 10 feet and you have disadvantage on ability checks, attack rolls, and saving 
+throws that use Strength, Agility, or Endurance. 
 
 Push, Drag, or Lift. You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 20 times 
 your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
