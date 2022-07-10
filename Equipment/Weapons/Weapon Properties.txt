@@ -8,42 +8,51 @@ rolls, instead of the weapon's normal SPECIAL modifier. You must use the same mo
 Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 Explosive: This weapon does not make an attack roll. Instead, it is thrown at a point designated by you. Each creature
-within a given radius of that point (provided by the weapon) must succeed a DC 15 Agility saving throw or suffer its 
-full damage. On a success, they suffer half as much damage.
+within a given radius of that point (provided by the weapon) must succeed a DC 10 Agility saving throw or suffer its 
+full effects.
 
-Heavy: Creatures with Strength < 7 have disadvantage on attack rolls made with this weapon and are considered Heavily
-Encumbered during combat when wielding it. Creatures with Strength >= 7 are considered Encumbered during combat when 
-wielding this weapon. Ranged attacks with Heavy weapons can use Strength instead of Agility for their attack and damage
-roll modifiers.
+Heavy: 
+- Creatures with Strength < 7 have disadvantage on attack rolls made with this weapon and are considered Heavily
+  Encumbered during combat when wielding it.
+- Creatures with Strength >= 7 are considered Encumbered during combat when wielding this weapon. 
+- Ranged attacks with Heavy weapons can use Strength instead of Agility for their attack and damage roll modifiers.
 
 Misfire. Whenever you make an attack roll with this weapon, and the dice roll is equal to or lower than the weapon’s 
 Misfire score, the weapon misfires. The attack misses, and the weapon cannot be used again until you spend AP to 
 perform the Reload action on it.
+- OVERSEER NOTE: (Is this used at all?)
 
 Onehanded. This weapon only requires one hand when you attack with it. If it is a ranged weapon, attacking while 
 engaged in melee with a creature does not impose disadvantage on the attack roll.
 
-Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or 
-thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates 
-the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You 
-can't attack a target beyond the weapon's long range.
+Ranged: 
+- Attacking with this weapon while engaged in melee with a creature imposes disadvantage on the attack roll.
+- A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown 
+  property. The range lists two numbers: 
+-- The first number is the weapon's normal range (in feet). 
+-- The second number is the weapon's long range (in feet). 
+-- When attacking a target beyond normal range, you have disadvantage on the attack roll. Attacks made against target's 
+   beyond the weapon's long range automatically miss.
 
 Reach:  This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for 
 opportunity attacks with it.
 
 Reload: The weapon can be fired a number of times equal to its Reload score before you must perform the Reload action 
-to reload it, costing AP equal to the amount needed to attack with it, plus 2. If your AP maximum is less than the
-reload cost, you can start reloading on your turn and finish on the next. You must have one free hand to reload a 
-firearm.
+to reload it, costing AP equal to the amount needed to attack with it, plus 2. 
+- If your AP maximum is less than the reload cost, you can still reload the weapon by expending your entire AP pool on 
+  it.
+- You must have at least one free hand to reload a firearm.
 
 Special: A weapon with the special property has unusual rules governing its use, explained in the weapon's description.
 
-Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee
-weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack 
-with the weapon. For example, if you throw a spear, you use your Strength, but if you throw a dagger, you can use 
-either your Strength or your Agility, since the dagger has the finesse property.
+Thrown: 
+- If a weapon has the thrown property, you can throw the weapon to make a ranged attack. 
+- If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would
+  use for a melee attack with the weapon. 
+-- For example, if you throw a spear, you use your Strength, but if you throw a dagger, you can use either your Strength
+   or your Agility, since the dagger has the finesse property.
 
 Two-Handed: This weapon requires two hands when you attack with it.
 
-Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the 
+Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property-> the 
 damage when the weapon is used with two hands to make a melee attack.

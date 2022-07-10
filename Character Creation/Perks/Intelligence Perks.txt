@@ -1,8 +1,8 @@
 Scrapper (Req. Intelligence 1)
-Rank 1: You can recover steel, rubber, cloth, bone, plastic, leather, and concrete from scrapping items.
-Rank 2: You can recover asbestos, ballistic fiber, circuitry, crystal, fiber optics, gold, and silver
+Rank 1: You can recover aluminum, ceramic, copper, cork, gears, glass, lead, screws, and springs from scrapping items.
+Rank 2: You can recover acid, adhesive, antiseptic, asbestos, fertilizer, and oil from scrapping items.
+Rank 3: You can recover ballistic fiber, circuitry, crystal, fiber optics, fiberglass, gold, nuclear material and silver 
 from scrapping items.
-Rank 3: You can recover acid, adhesive, antiseptic, ceramic, fertilizer, and nuclear material from scrapping items.
 Rank 4: Over the course of an hour you can scrap up to 5 items. Portable scrapping kits can scrap up to 2 items.
 Rank 5: Over the course of an hour you can scrap up to 8 items. Portable scrapping kits can scrap up to 3 items.
 

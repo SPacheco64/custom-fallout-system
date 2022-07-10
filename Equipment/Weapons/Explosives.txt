@@ -1,7 +1,7 @@
 *** Grenades and Explosives ***
 
 Name				Property						Cost		Weight
-Dynamite(N/A)			Special							25 caps		0.5 lbs.
+Dynamite(N/A)			Special (AGI save to halve)				25 caps		0.5 lbs.
 Molotov(0)			3d6 fire (AGI save to halve)				15 caps		0.5 lbs.
 Baseball Grenade(1)		3d6 ballistic (AGI save to halve)			15 caps		0.5 lbs.
 Bottlecap Mine*(1)		7d6 ballistic (AGI save to halve)			75 caps		0.5 lbs.
@@ -26,7 +26,8 @@ Nuka Mine*(4)			8d6 ballistic, 8d6 radiation (no save)			150 caps	0.5 lbs.
 Satchel charge**(4)		8d6 ballistic (AGI save to halve)			90 caps		0.5 lbs.
 
 Explosives affect creatures and objects in a 10-foot radius unless otherwise specified. Explosives can be thrown a 
-number of feet equal to your Strength score * 5 (minimum 10 feet).
+number of feet equal to your Strength score * 5 (minimum 10 feet). Explosives typically have a saving throw the targets
+can succeed to reduce or resist the explosives' effects. Unless stated otherwise, the DC for this saving throw is 10.
 
 Creatures inside the blast radius of a grenade or explosive that deals ballistic damage are deafened until the start of
 their next turn. This temporary deafness cannot be resisted.

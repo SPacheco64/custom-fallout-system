@@ -2,8 +2,8 @@ Along your travels you will encounter mountains and mountains of wonderful crap.
 for components used to craft and build just about everything from stimpaks to recon scopes. Scrapping is a delicate,
 time-consuming process that requires you to set aside at least one whole hour at a workbench, or with a portable
 scrapping kit if you have one. During this time you'll be able to scrap up to 3 items, collecting the components from
-them as listed. Without any ranks in the Scrapper perk you can only collect steel, rubber, cloth, bone, plastic, 
-leather, and concrete when scrapping.
+them as listed. Without any ranks in the Scrapper perk you can only collect bone, cloth, concrete, leather, plastic, 
+rubber, steel, and wood when scrapping.
 
 There's a lot of crap out there, in various different forms of crappiness. So if you're ever looking for some 
 particular crap, be sure to ask for it by name when you make your Luck (Loot) checks. This way your Overseer can keep

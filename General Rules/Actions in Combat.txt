@@ -8,9 +8,10 @@ With this action, you make one melee, ranged, thrown, or unarmed attack. See the
 rules that govern attacks.
 
 Different weapons use different SPECIAL scores as the modifier for the attack and damage rolls:
-- Melee, Thrown, and Unarmed weapons use Strength
-- Ranged weapons use Perception
+- Melee, Thrown, and Unarmed weapons use Strength.
+- Ranged weapons use Perception.
 - Weapons with the Finesse property may use Agility instead of the weapon's normal SPECIAL modifier.
+- Weapons with the Heavy property may use Strength instead of the weapon's normal SPECIAL modifier.
 
 
 *** Dodge (4 AP) ***

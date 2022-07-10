@@ -22,7 +22,7 @@ Strength
 - Blacksmith (melee weapons and armor)
 - Intimidation
 - Melee Weapons
-- Unarmed
+- Unarmed Weapons
 
 Perception
 - Detection
@@ -61,5 +61,5 @@ Agility
 
 Luck
 - Loot
-- Miracle
+- Miracles
 - Death saves

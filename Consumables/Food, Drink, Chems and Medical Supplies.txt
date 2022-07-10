@@ -26,6 +26,9 @@ Yum Yum Deviled Eggs		Addictive						11 caps		0.1 lbs.
 
 *This food counts as a meal for the purposes of satisfying daily hunger.
 
+Meat harvested from slain creatures is typically considered uncooked food, though sometimes it may be Irradiated food.
+Tiny and Small animals yield one piece of food, while Medium and larger animals yield one additional food per size above
+Small. Successfully obtain this meat is an Endurance (Survival) check.
 
 *** Drink ***
 
@@ -81,7 +84,7 @@ Addictol		Cures all addictions after long rest		125 caps	0.1 lbs.
 Antibiotics		Cures all diseases after long rest		75 caps		0.1 lbs.
 Antimicrobial		Adv. on saves against disease (1 hr.)		30 caps		0.1 lbs.
 Blood Pack		Bonus hit die during a short rest		30 caps		0.1 lbs.
-Med-X*			Gain 3 Damage Resistance (1 min.)		30 caps		0.1 lbs.
+Med-X*			Gain 10 temporary hit points (1 min.)		30 caps		0.1 lbs.
 Rad-Away		Remove 2d6 radiation damage			80 caps		0.1 lbs.
 Rad-X			Gain radiation resistance (1 hr.)		40 caps		0.1 lbs.
 Stimpak			Heal 2d6 hit points				40 caps		0.1 lbs.
