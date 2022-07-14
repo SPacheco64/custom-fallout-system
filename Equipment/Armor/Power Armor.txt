@@ -3,7 +3,7 @@ each to a specific score indicated in the Str/End column. The cost column is the
 for that kind of power armor - it does not include the price of the power armor frame, which is listed separately.
 
 While worn, power armor increases the your size to Large. If powered by a fusion core charge, you are also not 
-encumbered while wielding a Heavy weapon.
+encumbered while wielding a Heavy weapon and can dual-wield weapons that don't have the Heavy keyword.
 
 Armor Name		Armor Class (AC)	Str/End		Stealth		Cost		Weight (0 with core)
 Power Armor Frame	8 + AGI Modifier	  10		   -		1500 caps	100 lbs.

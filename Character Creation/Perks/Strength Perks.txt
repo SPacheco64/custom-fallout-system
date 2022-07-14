@@ -1,26 +1,13 @@
 Iron Fist (Req. Strength 1)
-Rank 1: You have +1 to attack rolls made with unarmed weapons and you choose a special unarmed move from the list at
-the bottom of this perk. You can perform one special unarmed move per turn as part of an unarmed attack. Special moves
-cost additional AP, denoted at the end of their description.
-Rank 2: Your unarmed attacks deal +1 damage and you choose another special unarmed move.
-Rank 3: You have +2 to attack rolls made with unarmed weapons and you choose another special unarmed move. Your unarmed 
-strikes use a d6 for damage.
-Rank 4: Your unarmed attacks deal +2 damage and you choose another special unarmed move.
-Rank 5:  You have +3 to attack rolls made with unarmed weapons and they deal +3 damage. You choose two more special 
-unarmed moves and your unarmed strikes use a d8 for damage
-- Haymaker: Your attack deals one additional damage die (1 AP).
-- Uppercut: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On a
-  failure they are stunned until the start of your next turn (2 AP).
-- Ear-clap: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On a
-  failure they are deafened until the start of your next turn (1 AP).
-- Throat strike: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). On
-  a failure they cannot speak until the start of your next turn (1 AP).
-- Roundhouse kick: Your attack forces the target to make a Constitution saving throw (DC 10 + your Strength modifier). 
-  On a failure they are blinded until the start of your next turn (2 AP).
-- Drop kick: You attack deals two extra damage dice and forces the target to make a Constitution saving throw (DC 10 + 
-  your Strength modifier). On a failure they are knocked prone; you fall prone after this attack regardless of the 
-  roll's outcome (2 AP).
-
+Rank 1: You have +1 to attack rolls made with unarmed weapons, the Grapple action only costs you 2 AP, and your movement
+speed increases by 5 feet.
+Rank 2: Your unarmed attacks deal +1 damage and the Dodge action only costs you 2 AP.
+Rank 3: You have +2 to attack rolls made with unarmed weapons. Your bare fists deal 2d6 ballistic damage (2d8 for 
+versatile).
+Rank 4: Your unarmed attacks deal +2 damage, and while you are not wearing armor you can choose to add your Constitution
+modifier to your AC (in addition to your Agility modifier).
+Rank 5:  You have +3 to attack rolls made with unarmed weapons and they deal +3 damage. Your bare fists deal 3d8 
+ballistic damage (3d10 for versatile).
 
 Big Leagues (Req. Strength 2)
 Rank 1: You have +1 to attack rolls made with melee and thrown weapons. Drawing a thrown weapon costs 0 AP.

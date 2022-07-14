@@ -2,9 +2,9 @@ The rules for dual-wielding are simple:
 
 1. To dual-wield a weapon it must have the onehanded and light properties.
 
-2. Attacking with dual-wielded weapons requires you to fire each weapon one at a time.
+2. While dual-wielding, the attack action still only allows for one attack and from one weapon.
 
-3. When dual-wielding, you can only reload one of the weapons as part of your Reload action.
+3. While dual-wielding, you can only reload one of the weapons as part of your Reload action.
 
 4. Attacks with dual-wielded weapons at long range automatically miss.
 
