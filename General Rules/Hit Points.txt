@@ -16,8 +16,8 @@ Endurance 5-6, use a d6; 7-8, use a d8; 9-10, use a d10. You do not add any modi
 number of hit points equal to the sum of the values rolled on the hit dice.
 
 During a short or long rest, you can spend as many hit dice as you want. At the end of a long rest, if you no longer 
-have any levels of exhaustion, you regain 2 spent hit dice (4 spent hit dice when your character's level is 11 or
-greater).
+have any levels of exhaustion, you regain up to 2 spent hit dice (up to 4 spent hit dice when your character's level is 
+11 or greater).
 
 Damage
 A creature's current hit points (usually just called hit points) can be any number from the creature's hit point 

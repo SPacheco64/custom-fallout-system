@@ -2,17 +2,15 @@
 
 All robots have the following traits in common:
 
-Machine. You do not need to eat, sleep, or drink to survive. Once per 24 hours however, you must complete a long rest
-to perform repairs and systems diagnostics. During this process you are semi-conscious of your surroundings (-5 to
-passive Perception and disadvantage on Perception checks). Additionally, chems and medical supplies have no effect on 
-you.
+Machine. You do not need to eat or drink to survive and you are immune to disease. While you do not "sleep," once per 24
+hours you must complete a long rest to perform repairs and systems diagnostics. Failure to do so gradually degrades your
+performance and accumulates Exhaustion like normal. During the long rest you are semi-conscious of your surroundings (-5 
+to passive Perception and disadvantage on Perception checks). Chems and medical supplies have no effect on you.
 
 Semiconductors and Steel. You have immunity to poison, the poisoned condition, and radiation damage, as well as 
 vulnerability to lightning damage. Every time you start your turn in waist-high water, every time you move through 10 
-feet worth of waist-high water, and for every a gallon of water dumped on you, you take 3 lightning damage (do not 
-double this value to account for vulnerability).
-
-
+feet worth of waist-high water, and for every gallon of water dumped on you, you take 3 lightning damage (do not double 
+this value to account for vulnerability).
 
 Robot Weapons and Armor. Robots have access to unique weapons and armor exclusive to them. They can only be equipped
 or unequipped at a workbench or with a long rest. "Human" weapons and armor are incompatible with their bodies.
