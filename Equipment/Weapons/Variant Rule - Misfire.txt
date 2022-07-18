@@ -1,0 +1,2 @@
+Misfire. Whenever you make an attack roll with this weapon, and the d20 roll is a 1, the weapon misfires. The attack 
+misses, and the weapon cannot be used again until you perform the Reload action to unjam the weapon.

@@ -17,12 +17,10 @@ Heavy:
 - Creatures with Strength >= 7 are considered Encumbered during combat when wielding this weapon. 
 - Ranged attacks with Heavy weapons can use Strength instead of Agility for their attack and damage roll modifiers.
 
-Misfire. Whenever you make an attack roll with this weapon, and the dice roll is equal to or lower than the weapon’s 
-Misfire score, the weapon misfires. The attack misses, and the weapon cannot be used again until you spend AP to 
-perform the Reload action on it.
-- OVERSEER NOTE: (Is this used at all?)
+Junk: This weapon is cheaply made; largely from cobbled-together scrap. Mods for this weapon can be made at half the 
+usual cost in components, but doing so means the mod cannot be transferred to another, non-junk weapon.
 
-Onehanded. This weapon only requires one hand when you attack with it. If it is a ranged weapon, attacking while 
+Onehanded: This weapon only requires one hand when you attack with it. If it is a ranged weapon, attacking while 
 engaged in melee with a creature does not impose disadvantage on the attack roll.
 
 Ranged: 
