@@ -60,6 +60,6 @@ Agility
 - Sneak
 
 Luck
-- Loot
-- Miracles
 - Death saves
+- Miracles
+- Scavenge

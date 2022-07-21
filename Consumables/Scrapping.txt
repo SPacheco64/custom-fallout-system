@@ -6,7 +6,7 @@ them as listed. Without any ranks in the Scrapper perk you can only collect bone
 rubber, steel, and wood when scrapping.
 
 There's a lot of crap out there, in various different forms of crappiness. So if you're ever looking for some 
-particular crap, be sure to ask for it by name when you make your Luck (Loot) checks. This way your Overseer can keep
+particular crap, be sure to ask for it by name when you make your Luck (Scavenge) checks. This way your Overseer can keep
 it in mind and not forget that item even exists. Because when I say there's a lot of crap on the list, I mean there's a
 LOT of crap on the list.
 

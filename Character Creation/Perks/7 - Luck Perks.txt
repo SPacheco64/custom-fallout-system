@@ -1,17 +1,17 @@
 Fortune Finder (Req. Luck 1)
-Rank 1: When looting for caps, you roll 3d6 to determine the number found, rather than 3d4.
-Rank 2: When looting for caps, you roll 3d8 to determine the number found.
-Rank 3: When looting for caps, you roll 3d10 to determine the number found.
-Rank 4: When looting for caps, every die you roll a 10 on generates another 5 caps.
-Rank 5: When looting for caps, you can treat every die roll of 4 or lower as a 5.
+Rank 1: When scavenging for caps, you roll 3d6 to determine the number found on a success, rather than 3d4.
+Rank 2: When scavenging for caps, you roll 3d8 to determine the number found.
+Rank 3: When scavenging for caps, you roll 3d10 to determine the number found.
+Rank 4: When scavenging for caps, every die you roll a 10 on generates another 5 caps.
+Rank 5: When scavenging for caps, you can treat every die roll of 4 or lower as a 5.
 
 Scrounger (Req. Luck 2)
-Rank 1: When looting for ammo, you roll 2d6 to determine the number found, rather than 2d4.
-Rank 2: When looting for ammo, you roll 2d8 to determine the number found.
-Rank 3: When looting for ammo, you roll 2d10 to determine the number found. You can specify one of the dice rolled to
+Rank 1: When scavenging for ammo, you roll 2d6 to determine the number found on a success, rather than 2d4.
+Rank 2: When scavenging for ammo, you roll 2d8 to determine the number found.
+Rank 3: When scavenging for ammo, you roll 2d10 to determine the number found. You can specify one of the dice rolled to
 generate a specific kind of ammo.
-Rank 4: When looting for ammo, you add your two times your Luck modifier to the total rolled (minimum of 2).
-Rank 5: When looting for ammo, every die you roll a 10 on generates one random explosive.
+Rank 4: When scavenging for ammo, you add your two times your Luck modifier to the total rolled (minimum of 2).
+Rank 5: When scavenging for ammo, every die you roll a 10 on generates one random explosive.
 
 Bloody Mess (Req. Luck 3)
 Rank 1: Your critical hit damage multiplier increases by 1 for all weapons.

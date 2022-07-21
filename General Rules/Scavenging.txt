@@ -1,0 +1,15 @@
+A core part of wasteland life out on the range is scavenging. In the ruins, in the pockets of the dead, and even in the
+dumpsters. Stuff needs other stuff to work, and you want working stuff don't you?
+
+Whenever you choose to scavenge an object, room, battlefield, etc., you will make a Scavenging check (typically using
+your Luck SPECIAL score). On a success, consult the following list based on what you're looking for:
+
+Ammo found: 2d4
+Caps found: 3d4
+Components found: 2d4
+Junk items found: Varies
+
+Keep in mind, the above values are for randomized rewards. At the Overseer's discretion certain situations may award
+a pre-defined amount, nothing, or more loot than you can carry! Similarly, in some cases the Overseer may determine
+what kinds of items you will find (ammo, caps, junk...) and in others they may allow you to choose the item you find
+specifically.
