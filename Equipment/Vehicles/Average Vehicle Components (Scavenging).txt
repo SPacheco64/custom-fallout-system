@@ -1,0 +1,14 @@
+Medium				Large				Huge
+Adhesive x4			Adhesive x8			Adhesive x12
+Aluminum x5			Aluminum x10			Aluminum x15
+Circuitry x4			Circuitry x8			Circuitry x13
+Fiberglass x2			Fiberglass x4			Fiberglass x8
+Gear x6				Gear x12			Gear x18
+Glass x5			Glass x10			Glass x16
+Leather x7			Leather x15			Leather x15
+Nuclear Material x5		Nuclear Material x10		Nuclear Material x15
+Oil x4				Oil x7				Oil x12
+Rubber x12			Rubber x24			Rubber x48
+Screw x10			Screw x20			Screw x40
+Spring x4			Spring x8			Spring x14
+Steel x10			Steel x20			Steel x40
