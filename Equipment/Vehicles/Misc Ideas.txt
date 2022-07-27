@@ -20,3 +20,5 @@ Hitch
 Combustion Engine
 - Movement speed increases by 30 feet
 - Consumes 5 fuel every hour spent moving
+Supercharge
+- Movement speed increases by 15 feet
