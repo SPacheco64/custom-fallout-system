@@ -1,22 +1,22 @@
 Gunslinger (Req. Agility 1)
 Rank 1: You have +1 to attack rolls made with non-automatic, onehanded ranged weapons (henceforth referred to as
 "pistols"). Attacks made with pistols cost 1 less AP, to a minimum of 3.
-Rank 2: Your pistol attacks deal +1 damage.
+Rank 2: Your pistol attacks deal +1 damage. Each turn, your first reload with a pistol costs 0 AP.
 Rank 3: You have +2 to attack rolls made with pistols. Attacks made with pistols cost 1 less AP, to a minimum of 2.
 Rank 4: Your pistol attacks deal +2 damage. Critical hits and kills with a pistol refund the AP spent on the attack.
-Rank 5:  You have +3 to attack rolls made with pistols and they deal +3 damage. Attacks made with pistols cost 2 less 
-AP, to a minimum of 2. 
+Rank 5: You have +3 to attack rolls made with pistols and they deal +3 damage. Each turn, your first two reloads with a 
+pistol cost 0 AP.
 
 Commando (Req. Agility 2)
 Rank 1: You have +1 to attack rolls made with automatic, ranged weapons - be they onehanded or twohanded (henceforth 
-these are referred to as "automatic weapons"). 
-Rank 2: Your automatic weapon attacks deal +1 damage. Your critical hit multiplier with automatic weapons increases by
-1.
-Rank 3: You have +2 to attack rolls made with automatic weapons.
-Rank 4: Your automatic weapon attacks deal +2 damage. Your critical hit multiplier with automatic weapons increases by
-1 again.
-Rank 5:  You have +3 to attack rolls made with automatic weapons and they deal +3 damage. Attack rolls with automatic 
-weapons are a critical hit on a roll of 19-20 on the d20.
+these are referred to as "automatics"). When rolling damage for an automatic you can roll one additional die and add it 
+to the total (without expending additional ammo).
+Rank 2: Your critical hit multiplier with automatic weapons increases by 1.
+Rank 3: You have +2 to attack rolls made with automatic weapons. When rolling damage for an automatic you can roll two
+additional dice and add them to the total (without expending additional ammo).
+Rank 4: Your critical hit multiplier with automatic weapons increases by 1 again.
+Rank 5:  You have +3 to attack rolls made with automatic weapons and they consume half as much ammunition each attack 
+(round up).
 
 Sneaky (Req. Agility 3)
 Rank 1: Moving stealthily does not reduce your travel speed or your combat speed.
