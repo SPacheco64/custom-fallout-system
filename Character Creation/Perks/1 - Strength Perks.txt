@@ -68,20 +68,23 @@ Rank 2: You can apply your Melee Weapons skill bonus to melee and thrown attacks
 Rank 3: Improvised weapons now use d8's or larger for their damage dice.
 
 Rooted (Req. Strength 9)
-Rank 1: If you have not moved this round, you can spend 2 AP to become Rooted. While Rooted you gain +2 Damage 
-Resistance and your melee/unarmed attacks deal +1 damage. Once Rooted, you cannot move until the start of your next 
-turn.
-Rank 2: While Rooted you have advantage on saving throws to resist being pushed or knocked prone.
-Rank 3: While rooted your Damage Resistance bonus increases to +4 and your melee/unarmed attacks deal +2 damage.
-Rank 4: Becoming Rooted no longer costs AP.
-Rank 5: While Rooted you cannot be pushed or knocked prone. Your Damage Resistance bonus increases to +6 and your 
-melee/unarmed attacks deal +3 damage.
+Rank 1: If you have not moved this round, you can spend 2 AP to become Rooted. While Rooted, you gain advantage on
+saving throws against being shoved, knocked prone, or otherwise moved against your will. Once Rooted, you cannot move 
+until the start of your next turn.
+Rank 2: While Rooted you reduce all damage taken by an amount equal to half your character level (round up), to a 
+minimum of 1. You gain advantage on all ability checks to grapple a creature while Rooted.
+Rank 3: While Rooted you reduce all damage taken by an amount equal to your character level (round up), to a minimum of 
+1.
+Rank 4: While Rooted you cannot be shoved, knocked prone, or otherwise moved against your will, save by truly excessive
+force. Your melee, thrown, and unarmed attacks while Rooted have advantage.
+Rank 5: Becoming Rooted no longer costs AP. While Rooted, you can reduce the damage of enemy attacks to 0. When an attack
+is reduced to 0, the attacking creature is frightened of you until the end of their next turn.
 
 Pain Train (Req. Strength 10)
 Rank 1: If you move at least 15 feet before making a melee/unarmed attack against a creature, on a hit that creature is
 knocked prone.
-Rank 2: Creatures can no longer take melee/unarmed opportunity attacks against you.
-Rank 3: Creatures can no longer take overwatch attacks against you.
+Rank 2: Melee/unarmed opportunity attacks made against you automatically miss.
+Rank 3: Overwatch attacks made against you automatically miss.
 Rank 4: If you move through the space of a hostile creature whose Strength score is lower than yours, you knock them
 prone and their space is not considered difficult terrain for you.
 Rank 5: Creatures knocked prone by your movement take 1d6 ballistic damage.
