@@ -1,0 +1,11 @@
+When attacking a creature, you can spend 2 additional AP on the attack to target one of their limbs with disadvantage. 
+You specify which limb you wish to target from the list below:
+
+Leg: In addition to normal damage the target's movement speed is reduced by half (round up to the nearest 5 ft increment,
+minimum reduction of 10 feet) until healed.
+- If both legs have been hit this way, the target can only crawl for 5 feet when it uses the Move action and is always
+  prone until healed.
+
+Arm: In addition to normal damage the target drops whatever it is holding with this arm and cannot use it until healed.
+
+Head: The target must make a DC 10 Endurance saving throw. On a failure, the attack becomes a critical hit.

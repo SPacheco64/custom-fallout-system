@@ -70,6 +70,6 @@ Rank 5: Your attacks ignore damage threshold.
 Rank 4: Your attacks ignore natural armor.
 
 Concentrated Fire (Req. Perception 10)
-Rank 1: Attacking a creature's arms or legs does not impose disadvantage.
+Rank 1: Attacking a creature's legs does not impose disadvantage.
+Rank 2: Attacking a creature's arms does not impose disadvantage.
 Rank 2: Attacking a creature's head does not impose disadvantage.
-Rank 3: Once per combat, you can spend 2 AP to make a body part attack turn into a critical hit automatically.
