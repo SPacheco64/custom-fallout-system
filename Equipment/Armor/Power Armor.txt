@@ -8,6 +8,7 @@ encumbered while wielding a Heavy weapon and can dual-wield weapons that don't h
 Armor Name		Armor Class (AC)	Str/End		Stealth		Cost		Weight (0 with core)
 Power Armor Frame	8 + AGI Modifier	  10		   -		1500 caps	100 lbs.
 Junk/Raider		      12		  10	      Disadvantage	450 caps	100 lbs.
+Red Shift		      14		  10	      Disadvantage	1,000 caps	125 lbs.
 Overboss		      15                  11          Disadvantage      550 caps        150 lbs.
 T-45			      15		  11	      Disadvantage	600 caps	92 lbs.
 T-51			      17		  12	      Disadvantage	780 caps	100 lbs.
