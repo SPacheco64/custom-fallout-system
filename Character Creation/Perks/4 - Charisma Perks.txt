@@ -30,10 +30,10 @@ Rank 4: Your pet increases its hit point maximum by an amount equal to your Char
 Rank 5: Your pet does not count against the one pet party limit.
 
 Animal Friend (Req. Charisma 5)
-Rank 1: A successful Charisma (Persuasion or Intimidation) check can convince wild dogs to not attack you or your 
-party, unless agitated further.
-Rank 2: Success can now affect irradiated animals (molerats, yao guai, etc.)
-Rank 3: Success can now convince insects (radroaches, stingwings, etc.)
+Rank 1: A successful Charisma (Persuasion or Intimidation) check can convince dogs, mongrels, and wolves to not attack 
+you or your party, unless agitated further.
+Rank 2: Success can now affect any Beast.
+Rank 3: Success can now affect non-sapient Mutants with an Intelligence score lower than 5.
 
 Party Person (Req. Charisma 6)
 Rank 1: You cannot become addicted to chems that increase your Charisma.
