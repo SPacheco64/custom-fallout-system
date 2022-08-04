@@ -2,8 +2,12 @@ Wielding power armor does not require a particular Strength score; rather, it in
 each to a specific score indicated in the Str/End column. The cost column is the price of a full suit of armor pieces
 for that kind of power armor - it does not include the price of the power armor frame, which is listed separately.
 
-While worn, power armor increases the your size to Large. If powered by a fusion core charge, you are also not 
-encumbered while wielding a Heavy weapon and can dual-wield weapons that don't have the Heavy keyword.
+While worn, power armor increases the your size to Large and makes it much more difficult to gain the benefits of cover. 
+If powered by a fusion core charge, you are also not encumbered while wielding a Heavy weapon and can dual-wield any 
+weapons that don't have the Heavy keyword.
+
+Headlamp/Eyelight: Power armor comes with a built-in light that can shed bright light in a 30-foot-cone and dim-light
+for an additional 30 feet.
 
 Armor Name		Armor Class (AC)	Str/End		Stealth		Cost		Weight (0 with core)
 Power Armor Frame	8 + AGI Modifier	  10		   -		1500 caps	100 lbs.
@@ -18,9 +22,11 @@ X-02			      20		  13*		   -		1500 caps	115 lbs.
 X-03			      23**		  15	      Disadvantage	1800 caps	170 lbs.
 I-01			      25		  15*		   -		3000 caps	90 lbs.
 
-*While worn, your Agility score is additionally raised to 6, if it isn't already 6 or higher.
+*While worn, your Agility score is additionally raised to 7, if it isn't already 7 or higher.
 **While worn, you have resistance to fire damage.
 
+Lightning Vulnerability: All power armor, except I-01, grant their wearer vulnerability to Lightning damage. Tesla
+variants do not have this vulnerability.
 Radiation Resistance: T-45, T-51, and T-60 power armor offer resistance to Radiation damage when powered by a fusion
 core.
 Radiation Immunity: X-01, X-02, X-03, and I-01 power armor offer immunity to Radiation damage when powered by a fusion
