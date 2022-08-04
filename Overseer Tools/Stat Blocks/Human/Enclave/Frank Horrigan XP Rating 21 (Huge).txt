@@ -1,5 +1,0 @@
-Darkvision. The wolf has Darkvision out to 60 feet. It can’t discern color in darkness, only shades of gray.
-
-Natural Weapons. The behemoth’s bare-handed unarmed attacks use 3d12 for their damage dice.
-
-Plasma Grenade (3/Day). The Horrigan throws a plasma grenade.
