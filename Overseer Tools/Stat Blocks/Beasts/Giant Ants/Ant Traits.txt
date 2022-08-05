@@ -1,0 +1,10 @@
+Blind Sight. The ant can perceive its surroundings without relying on sight out to 10 feet.
+
+Hive Mind. The ant is aware of anything an allied ant is aware of (such as the location of an invisible creature), out to
+a range of 300 feet. It has advantage on saving throws against the charmed and frightened conditions.
+
+Powerful Build. The ant counts as one size larger when determining its carrying capacity and the weight it can push, 
+drag, or lift.
+
+Pack Tactics. The ant has advantage on an attack roll against a creature if at least one of the ant's allies is within 5
+feet of the creature and the ally isn't incapacitated.
