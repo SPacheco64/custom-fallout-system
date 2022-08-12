@@ -1,0 +1,68 @@
+Special Items
+
+Not even the apocalypse can stop the power of drip. But while wasteland fashion can already be...unique...some items go
+beyond mere apparel. Almost more like talismans, they are an integral part of a wasteland legend. These are known as 
+special items.
+
+Your character has 3 slots available for special items, with each item occupying 1 slot. You can wear/use more special 
+items than you have slots for, but you only gain the unusual properties of those special items for which you assigned a
+slot. Additional constraints include:
+- You cannot use multiple of the same kind (can't stack the benefits of TWO lucky rabbits' feet)
+- You cannot use conflicting items (like wearing two hats)
+- If wearing more than 3 special items, you much declare which ones are in slots and cannot change this allotment until
+your next short rest.
+
+Something else important to note is that not every instance of an item is special. I.e. not all aviator glasses are 
+Authority glasses.
+
+*** Special Items ***
+
+Name				Property		Cost		Weight
+Authority Glasses		+1 Charisma		100 caps	0.1 lbs.
+Canteen				+1 Endurance		100 caps	0.1 lbs.
+Grognak Comic Book		+1 Strength		100 caps	0.1 lbs.
+Lab Coat			+1 Intelligence		100 caps	0.1 lbs.
+Lucky Rabbit's Foot		+1 Luck			100 caps	0.1 lbs.
+Prescription Eyeglasses		+1 Perception		100 caps	0.1 lbs.
+Sneakers			+1 Agility		100 caps	0.1 lbs.
+
+Advanced Radiation Suit		Radiation immunity*	1000 caps	7 lbs.
+Bandana				+1 Unarmed Weapons	50 caps		0.1 lbs.
+Beret				+1 Leadership		50 caps		0.1 lbs.
+Boonie Hat			+1 Survival		50 caps		0.1 lbs.
+Boutonnière			+1 Persuasion		50 caps		0.1 lbs.
+Detective's Fedora		+1 Detection		50 caps		0.1 lbs.
+Doctor's Bag			+1 Medicine		50 caps		1 lb.
+Fake Mustache			+1 Deception		50 caps		0.1 lbs.
+Goggles				+1 Energysmith		50 caps		0.1 lbs.
+Holy Book			+1 Miracles		50 caps		0.1 lbs.
+Laser Pointer			+1 Energy Weapons	50 caps		0.1 lbs.
+Leather Jacket			+1 Intimidation		50 caps		3 lbs.
+Letterman Jacket		+1 Athletics		50 caps		3 lbs.
+Tarot Cards			+1 Insight		50 caps		0.1 lbs.
+Magician Hat			+1 Sleight of Hand	50 caps		0.1 lbs.
+Motorcycle Helmet		+1 Death Saves		50 caps		2.5 lbs.
+Pip-Boy 2500			See below**		250 caps	2 lbs.
+Pip-Poy	3000			See below**		250 caps	3 lbs.
+Pliers				+1 Explosives		50 caps		0.1 lbs.
+Radiation Suit			Radiation resistance*	500 caps	5 lbs.
+Rebreather			Breathe Underwater	250 caps	2 lbs.
+Robot Miniature			+1 Science		50 caps		0.1 lbs.
+Slippers			+1 Sneak		50 caps		0.5 lbs.
+Stethoscope			+1 Lockpick		50 caps		0.1 lbs.
+Tactical Gloves			+1 Guns			50 caps		0.1 lbs.
+Tool Belt			+1 Scavenge		50 caps		0.1 lbs.
+Weapon Repair Kit		+1 Gunsmith		50 caps		0.1 lbs.
+Welding Helmet			+1 Blacksmith		50 caps		0.1 lbs.
+Whetstone			+1 Melee Weapons	50 caps		0.1 lbs.
+
+*This item uses two special item slots and takes 1 minute to equip or unequip
+
+**Pip-Boys take up all three special item slots, but provide a variety of benefits:
+- +15 carrying capacity thanks to the built-in inventory management system
+- Sattelite GPS and real-time map
+- Radio (receive only)
+- +1 to hit with all attacks thanks to the Vault-Tect Assisted Targeting System (V.A.T.S.)
+- The Pip-Boy 3000 additionally gains the following benefits:
+-- Hack machines and robots without needing a connected terminal (5-foot reach)
+-- Holotape player (for audio tapes and video games)
