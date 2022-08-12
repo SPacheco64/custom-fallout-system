@@ -1,0 +1,8 @@
+Rare skill book exist in the world to be found, bought, or claimed in battle. Once read, a skill book grants the reader 1
+free skill point to use as they choose. A skill book can only provide this reward to a single creature before losing its 
+beneficial properties.
+
+Skill comics function similarly. But instead of permanently increasing a skill by 1, they provide advantage on all 
+ability checks of the chosen skill for the next hour. I.e., a player can choose Lockpicking and have advantage on all
+Lockpicking checks for the next hour. Like skill books, skill comics can only provide their reward to a single creature 
+before losing their beneficial properties.

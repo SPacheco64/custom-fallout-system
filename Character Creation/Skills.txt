@@ -10,10 +10,6 @@ Each time you level up you gain a number of skill points based on your Intellige
 one skill point, from 7-8 you gain two, and from 9-10 you gain three. Raising your Intelligence modifier at a later level
 does not retroactively award additional skill points from previous levels.
 
-Rare skill book exist in the world to be found, bought, or claimed in battle. Once read, a skill book grants the reader 1
-free skill point to use as they choose. A skill book can only provide this reward to a single creature before losing its 
-beneficial properties.
-
 Un-spent skill points can be saved for later or spent to purchase a party-wide XP reward. For every skill point spent 
 this way, each adventurer in the party gains (10 * party level) XP.
 
