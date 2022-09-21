@@ -1,8 +1,10 @@
 Toughness (Req. Endurance 1)
-Rank 1: You gain a natural Damage Resistance of 2. This does not stack with Damage Resistance gained from equipment.
-Rank 2: You gain a natural Damage Resistance of 4. This does not stack with Damage Resistance gained from equipment.
-Rank 3: You gain resistance to one damage type of your choice: acid, cold, fire, lightning, poison, or thunder.
-Rank 4: Critical hits against you only use half their normal damage multiplier.
+Rank 1: After completing a short or long rest, you gain a number of temporary hit points equal to your Endurance 
+modifier. These temporary hit points last until your next short or long rest, or until they are replaced by another 
+source of temporary hit points.
+Rank 2: The number of temporary hit points you receive now equals 2x your Endurance modifier.
+Rank 3: The number of temporary hit points you receive now equals 3x your Endurance modifier.
+Rank 4: Critical hits against you only use half their normal damage multiplier (round up to nearest whole integer).
 Rank 5: Critical hits against you become normal hits.
 
 Lead Belly (Req. Endurance 2)

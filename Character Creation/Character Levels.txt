@@ -21,8 +21,11 @@ Level	Experience	Exp to Next Level	Name			Character's Starting Caps
 20	29,450 XP	3,050 XP		Wasteland Legend	3,050 caps
 
 At first level you start with a number of skill points determined by your character's race and 1 perk point, which can
-be spent to unlock a new perk or to increase your rank in a perk you already have.
+be spent to unlock a new perk or to increase your rank in a perk you already have. Lastly, you also start with hit points
+equal to 10 + your Endurance modifier (minimum of +0).
 
 Every level gained thereafter, your player character receives a number of skill points equal to their Intelligence 
-modifier (minimum of 1, maximum of 3) and gains another perk point. At 4th, 8th, 12th, 16th, and 20th level you may also
-increase one of your SPECIAL scores by 1.
+modifier (minimum of 1, maximum of 3) and gains another perk point. Additionally, they gain a number of hit points equal 
+to their Endurance modifier (minimum of 1). At 4th, 8th, 12th, 16th, and 20th level you may also increase one of your 
+SPECIAL scores by 1. If a character increases their Endurance modifier at a later level, they retroactively gain any hit 
+points they would've had if their Endurance modifier was always this high.
