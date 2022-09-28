@@ -1,7 +1,7 @@
 Drinking
 
-For every 12 hours you go without drinking one pint of water (20 oz. of water, or one dirty/purified water) you gain
-one level of exhaustion. Every 12-hour period you satisfy this requirement in, you reduce any exhaustion from lack of 
+For every 24 hours you go without drinking two pints of water (40 oz. of water, or two dirty/purified waters) you gain
+one level of exhaustion. Every 24-hour period you satisfy this requirement in, you reduce any exhaustion from lack of 
 drinking by one, to a minimum of 0. Drinking cannot reduce exhaustion caused by other needs. 
 
 Eating
