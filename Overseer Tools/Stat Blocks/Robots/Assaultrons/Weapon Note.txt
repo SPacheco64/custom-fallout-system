@@ -1,6 +1,6 @@
 Raider assaultron uses dual shishkebabs, but does NOT have a functioning beam laser.
 
-Assaultron uses a stealth blade and a laser rifle with the shotgun mod. Plus a functioning beam laser.
+Assaultron uses dual stealth blades. Plus a functioning beam laser.
 
 Novatron uses a proton axe (or something similar, need to make it a new robot weapon) and a plasma rifle with the 
 flamer mod. Plus a functioning beam laser.
