@@ -23,4 +23,4 @@ Praetorian
 Heavy Metal Armor
 Gladiator
 Centurion - Commands a centuria, a force of 100 warriors, decani included.
-Legate - Commands a legion, a force of 1,000 warriors, centurions included.
+Legate - Commands a cohort, a force of 1,000 warriors, centurions included.

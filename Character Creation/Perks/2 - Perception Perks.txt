@@ -35,7 +35,7 @@ Skeet Shooter (Req. Perception 5)
 Rank 1: If you successfully hit with an Overwatch attack, the AP needed to make the attack is refunded.
 Rank 2: Whenever you make an Overwatch attack, you can choose to instead target the weapon the creature is attacking with 
 (against their normal AC). On a hit you deal no damage, but the target's attack is wasted. If the weapon was a thrown 
-explosive, such as a grenade of mine, it detonates in their hand and they automatically fail the saving throw.
+explosive, such as a grenade or mine, it detonates in their hand and they automatically fail the saving throw.
 Rank 3: Your Overwatch attacks have advantage.
 
 Night Person (Req. Perception 6)
@@ -55,7 +55,7 @@ Rank 5: When blinded you can still make thrown weapon attacks as though you were
 
 Sniper (Req. Perception 8)
 Rank 1: You can spend 2 AP while attacking with a scoped weapon to gain advantage on its next attack roll.
-Rank 2: Holding your breathonly costs 1 AP instead of 2.
+Rank 2: Holding your breath only costs 1 AP instead of 2.
 Rank 3: The first time you hold your breath on a turn it costs 0 AP.
 Rank 4: Holding your breath always costs 0 AP.
 Rank 5: Once per turn, you can spend 2 AP to make an attack with a scoped weapon deal the maximum damage possible for 
@@ -66,10 +66,10 @@ Rank 1: Your attacks ignore half-cover.
 Rank 2: Your attacks ignore three-quarters cover.
 Rank 3: At the Overseer's discretion, you can attack a creature with full cover using a firearm. This attack has 
 disadvantage.
-Rank 5: Your attacks ignore damage threshold.
-Rank 4: Your attacks ignore natural armor.
+Rank 4: Your attacks ignore damage threshold.
+Rank 5: Your attacks ignore natural armor.
 
 Concentrated Fire (Req. Perception 10)
 Rank 1: Attacking a creature's legs does not impose disadvantage.
 Rank 2: Attacking a creature's arms does not impose disadvantage.
-Rank 2: Attacking a creature's head does not impose disadvantage.
+Rank 3: Attacking a creature's head does not impose disadvantage.
