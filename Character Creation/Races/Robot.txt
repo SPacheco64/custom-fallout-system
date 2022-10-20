@@ -15,7 +15,7 @@ this value to account for vulnerability).
 Robot Weapons and Armor. Robots have access to unique weapons and armor exclusive to them. They can only be equipped
 or unequipped at a workbench or with a long rest. "Human" weapons and armor are incompatible with their bodies.
 
-Specialized. You have 1 free skill point at first level.
+Specialized. You have 2 skill points at first level.
 
 
 *** Assaultron ***

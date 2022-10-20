@@ -4,4 +4,4 @@ Product of the Wastes. You have immunity to radiation damage.
 
 Mutated Physiology. Stimpaks heal you for half as much (round up) and chems last for half as long.
 
-Average. You have 2 free skill points at first level.
+Average. You have 2 skill points at first level.

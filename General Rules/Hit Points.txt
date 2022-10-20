@@ -1,7 +1,7 @@
 Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more 
 hit points are more difficult to kill. Those with fewer hit points are more fragile.
 
-At first level, every character starts with 10 hit points + their Endurance modifier (minimum of +0). Each time a
+At first level, every character starts with 21 hit points + their Endurance modifier (minimum of +0). Each time a
 character levels up, they gain a number of hit points equal to their Endurance modifier (minimum of 1). If a character
 increases their Endurance modifier at a later level, they retroactively gain any hit points they would've had if their
 Endurance modifier was always this high.

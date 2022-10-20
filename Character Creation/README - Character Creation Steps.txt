@@ -22,7 +22,8 @@ immunities, or vulnerabilities determined by your race.
 
 10. Allocate your skill points and note them in your character sheet.
 
-11. Pick your perks and note them in your character sheet.
+11. Pick your perks and note them in your character sheet (1st starts with one perk point, with each level above having 
+    one additional point).
 
 12. Determine your carrying capacity, encumberance and push/drag/lift.
 

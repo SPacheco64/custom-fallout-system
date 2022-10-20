@@ -7,12 +7,12 @@ Rank 4: When bartering, items cost 30% less for you and you can sell items for 3
 Rank 5: When bartering, items cost 40% less for you and you can sell items for 40% more.
 
 Lone Wanderer (Req. Charisma 2)
-Rank 1: When adventuring alone, you have 2 additional AP.
-Rank 2: When adventuring alone, you gain 10 temporary hit points at the end of each long rest.
+Rank 1: When adventuring alone or with a pet, you have 2 additional AP.
+Rank 2: When adventuring alone or with a pet, you gain 10 temporary hit points at the end of each long rest.
 Rank 3: Your AP bonus increases to 4 and your temporary hit point bonus increases to 20.
 
 Team Player (Req. Charisma 3)
-Rank 1: When taking the Help action, you can aid a friendly creature in attacking a creature up to 15 feet from you.
+Rank 1: When taking the Help action, you can aid a friendly creature in attacking a creature up to 15 feet away from you.
 Rank 2: When a friendly creature within 15 feet of you makes an attack or skill check on their turn, you can use the 
 Help action to aid them.
 Rank 3: You can now use the Help action to aid opportunity and overwatch attacks.

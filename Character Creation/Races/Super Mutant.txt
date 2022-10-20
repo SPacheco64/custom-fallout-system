@@ -7,10 +7,9 @@ Product of the Wastes. You have immunity to radiation damage.
 Mutated Physiology. Stimpaks heal you for half as much (round up) and chems last for half as long.
 
 Bulky. Your size is Large, doubling your carrying capacity and the weight you can push, drag, or lift. You cannot wear
-power armor, onehanded weapons with the Light property (excluding pipe guns and bare fists), or Ranger, Riot Gear, or
-combat armor.
+power armor, onehanded weapons with the Light property (excluding pipe guns and bare fists), or Ranger/Riot Gear.
 
-Specialized. You have 1 free skill point at first level.
+Specialized. You have 2 skill points at first level.
 
 
 *** Regular ***

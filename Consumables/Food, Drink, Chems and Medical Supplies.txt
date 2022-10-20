@@ -7,20 +7,20 @@ Name				Property						Cost		Weight
 Blamco Mac and Cheese		+3 damage with explosives				10 caps		0.1 lbs.
 Big Pop Bubblegum		Heal 1 hit point					5 caps		0.1 lbs.
 Cooked food*			Heal 1d6 hit points					20 caps		1 lb.
-Cotton Candy Bites		+1 Luck							7 caps		0.1 lbs.
+Cotton Candy Bites		+1 Luck	(1 hr.)						7 caps		0.1 lbs.
 Cram*				Heal 1d6 hit points, +1 Endurance			25 caps		0.1 lbs.
-Dandy Boy Apples		+1 Intelligence						7 caps		0.1 lbs.
-Fancy Lads Snack Cakes		+1 Charisma						18 caps		0.1 lbs.
+Dandy Boy Apples		+1 Intelligence	(1 hr.)					7 caps		0.1 lbs.
+Fancy Lads Snack Cakes		+1 Charisma (1 hr.)					18 caps		0.1 lbs.
 Glowing Fungus			Heal 1d4 radiation damage				3 caps		0.1 lbs.
 InstaMash			gain 3 temporary hit points				19 caps		0.1 lbs.
 Institute Food Ration*		Satisfies all daily hunger				36 caps		0.1 lbs.
 Irr. Food*			Heal 1d6 hit points, 2d4 radiation damage		10 caps		1 lb.
 K-Ration*										15 caps		0.1 lbs.
-Pork n' Beans			Heal 1d6 hit points, +1 Strength			12 caps		0.1 lbs.
+Pork n' Beans*			Heal 1d6 hit points, +1 Strength			12 caps		0.1 lbs.
 Potato Crisps										7 caps		0.1 lbs.
 Salisbury Steak*		Heal 1d6 hit points					20 caps		0.1 lbs.
-Slocum's BuzzBites		+1 Perception						22 caps		0.1 lbs.
-Sugar Bombs			+1 Agility						24 caps		0.1 lbs.
+Slocum's BuzzBites		+1 Perception (1 hr.)					22 caps		0.1 lbs.
+Sugar Bombs			+1 Agility (1 hr.)					24 caps		0.1 lbs.
 Uncooked food* 			Heal 1d6 hit points, 1d4 radiation damage		15 caps		1 lb.
 Yum Yum Deviled Eggs		Addictive						11 caps		0.1 lbs.
 
