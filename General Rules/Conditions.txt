@@ -69,16 +69,15 @@ cancel each other out and end immediately.
 - A poisoned creature has disadvantage on attack rolls and ability checks.
 
 *** Prone. ***
-- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition. It must 
-  spend 2 AP to stand up.
+- A prone creature's only movement option is to crawl (5 feet per Move action), unless it stands up and thereby ends the 
+  condition. It must spend 2 AP to stand up.
 
 - A prone creature has disadvantage on melee and unarmed attack rolls.
 - Melee and unarmed attack rolls against the prone creature have advantage.
 
 - A prone creature has advantage on ranged attack rolls if it isn't engaged in melee.
 - Ranged attack rolls against the prone creature have disadvantage.
-
-- At the Overseer's discretion, elevation may negate the disadvantage on ranged attacks against a prone creature.
+-- At the Overseer's discretion, elevation may negate the disadvantage on ranged attacks against a prone creature.
 
 *** Restrained ***
 - A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
