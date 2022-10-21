@@ -41,7 +41,7 @@ Irr. Water*			Take 2d4 radiation damage				1 cap		0.5 lbs.
 Orange Nuka-Cola		+2 AP (1 min.), 1d4 radiation damage			40 caps		1 lb.
 Quantum Nuka-Cola		Restore all health and AP on your turn			300 caps	1 lb.
 Quartz Nuka-Cola		Gain Darkvision out to 60 ft.				21 caps		1 lb.
-Sunset Sarsaparilla		Luck (Loot) roll to give a Star bottle cap		11 caps		1 lb.
+Sunset Sarsaparilla		+1 AP (1 min.), Luck (Scavenge) roll for a Star cap	11 caps		1 lb.
 Victory Nuka-Cola		Restore all health, AP, and radiation damage		450 caps	1 lb.
 Nuka-Cola			+1 AP (1 min.), 1d4 radiation damage			10 caps		1 lb.
 Purified Water*										20 caps		0.5 lbs.
