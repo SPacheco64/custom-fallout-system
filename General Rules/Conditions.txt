@@ -84,6 +84,10 @@ cancel each other out and end immediately.
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 - The creature has disadvantage on Agility saving throws.
 
+*** Stable ***
+- A stable creature is mortally wounded but no longer makes death saving throws, having generated 3 successes. It 
+remains at 0 hit points and also remains unconscious if it was unconscious when it stabilized.
+
 *** Stunned ***
 - A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
 - The creature automatically fails Strength and Agility saving throws.

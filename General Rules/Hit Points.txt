@@ -28,7 +28,8 @@ creature's capabilities. When your current hit points are below half your maximu
 once they fall below 1/4 of your maximum you suffer a second level of exhaustion. Exhaustion gained this way can only
 be removed through sufficient healing to bring your hit points back above the aforementioned thresholds.
 
-When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+When you drop to 0 hit points you either die or become mortally wounded, as explained in the sections following 
+Radiation Damage.
 
 Radiation Damage
 Radiation, be it the natural environment or a weapon, causes radiation damage. This damage is not subtracted from a 
@@ -48,18 +49,22 @@ For example, a character with a maximum of 12 hit points currently has 6 hit poi
 attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point 
 maximum, the character dies.
 
-Falling Unconscious
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious. This unconsciousness ends if you 
-regain any hit points. Whenever you start your turn with 0 hit points, you must make a special saving throw, called a 
-death saving throw, to determine whether you creep closer to death or hang onto life. 
+Mortally Wounded
+If damage reduces you to 0 hit points and fails to kill you, you become mortally wounded; this status ends if you regain 
+any hit points. Whenever you start your turn mortally wounded you can move and act normally, but must start your turn by
+making a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto
+life. 
 
-A death saving throw uses a d20 and adds only your Luck modifier. If the roll is 10 or higher, you succeed. Otherwise, 
-you fail. An unmodified roll of 1 counts as two failures automatically while an unmodified roll of 20 coutns as two 
-successes. A success or failure has no effect by itself, but on your third success you become stable (see below). On your 
-third failure - you die. The successes and failures don't need to be consecutive; keep track of both until you collect 
-three of a kind. The number of both is reset to zero when you regain any hit points or become stable. A stable creature
-no longer makes death saving throws, but remains unconscious at 0 hit points.
+A death saving throw uses a d20 and adds your Luck modifier and Death Save skill bonus. If the roll is 10 or higher, you 
+succeed. If the roll is 9 or lower, or you take damage from something, you suffer a failure. An unmodified roll of 1 or 
+a critical hit from an attack counts as two failures automatically and knocks your character unconscious until they are
+healed. An unmodified roll of 20 counts as two successes and your character regains consciousness if they were 
+unconscious. 
 
-Damage at 0 Hit Points. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. 
-If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point 
-maximum, you suffer instant death.
+A success or failure has no effect by itself, but on your third success you become stable*. On your third failure - you 
+die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The 
+number of successes is reset when you become stable and/or regain hit points, but the number of failures does not reset 
+until you've had a long rest.
+
+*A stable creature no longer makes death saving throws but remains at 0 hit points, and also remains unconscious if it 
+was unconscious when it stabilized.
