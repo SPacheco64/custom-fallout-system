@@ -1,0 +1,39 @@
+Backpacks
+
+"Backpack" collectively refers to the various bags, pouches, and actual backpacks wastelanders frequently use to help 
+carry their goods, ammo, and junk. A Small or Medium creature can only equip one backpack at a time while Tiny, Large,
+Huge, and Gargantuan creatures cannot equip backpacks at all, unless otherwise stated. In these cases, a Large creature
+can equip 2 backpacks, a Huge creature 3 backpacks, and a Gargantuan creature 5 backpacks.
+
+Backpacks increase a creature's carrying capacity by a number of pounds listed in the Property column. This increase is
+also added to the creature's encumberance limit and heavy encumberance limit. For example, a Medium creature with 
+Strength 7 would receive the following benefits if it equipped a travel bag:
+
+Carrying Capacity: 70 lbs. -> 85 lbs.
+Encumbered At: 49 lbs. -> 64 lbs.
+Heavily Encumbered At: 63 lbs. -> 78 lbs.
+
+Name				Property		Cost		Weight
+Pouch (1)			+5 lbs.			3 caps		0.1 lbs.
+Travel Bag			+15 lbs.		20 caps		3 lbs.
+Backpack			+25 lbs.		50 caps		4 lbs.
+Military Backpack (2)		+30 lbs.		65 caps		5 lbs.
+Suitcase*			+50 lbs.		70 caps		10 lbs.
+Wheeled Suitcase (3)		+50 lbs.		90 caps		10 lbs.
+Duffle Bag			+60 lbs.		115 caps	6 lbs.
+Hiking Backpack			Special			143 caps	9 lbs.
+Saddlebags*			Special			200 caps	15 lbs.
+
+
+The weight of a backpack is ignored if it's currently equipped.
+
+*This backpack can be equipped Large and larger creatures, provided it can be secured to them. Smaller creatures cannot
+equip it.
+
+Special: This backpack grants +60 lbs. of carry weight, or +(10 x the user's STR score) lbs. Whichever is higher.
+Additionally, it requires a minimum Strength of 4 to use.
+
+(1) You can equip up to three pouches, regardless of other equipped backpacks. A Tiny creature can equip one pouch.
+(2) Ammo carried by this backpack has its weight halved.
+(3) This backpack can be used in addition to another backpack. Keeping it with you requires at least one free hand and 
+leaves you Encumbered during combat.

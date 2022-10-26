@@ -26,7 +26,7 @@ Spike				1 cap		0.5 lbs.
 *** Utility ***
 
 Name			Property						Cost		Weight
-Bear Trap		1d6 ballistic, creature is restrained (STR save)	23 caps		6 lbs.
+Bear Trap		1d6 ballistic, creature is restrained (DC 10 STR save)	23 caps		6 lbs.
 Binoculars		Advantage on long-rage Perception checks		40 caps		1 lb.
 Bobby Pin		Used to lockpick, breaks on a failed roll		1 cap		1 lb. per 20
 Bottle Cap									1 cap		1 lb. per 50

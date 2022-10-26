@@ -44,10 +44,10 @@ Rank 3: You have resistance to radiation damage.
 
 Adamantium Skeleton (Req. Endurance 7)
 Rank 1: Choose one limb: left leg, right leg, left arm, right arm, or head. You have advantage on Endurance saving 
-throws to resist the effects of a limb shot to that limb.
+throws to resist the effects of a limb shot on that limb.
 Rank 2: You choose a second limb.
 Rank 3: You choose a third limb.
-Rank 4: You have advantage on Endurance saving throws to resist the effects of a limb shot to any limb.
+Rank 4: You have advantage on Endurance saving throws to resist the effects of a limb shot on any limb.
 Rank 5: You are immune to the effects of limb shots.
 
 Cannibal (Req. Endurance 8)

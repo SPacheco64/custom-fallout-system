@@ -1,6 +1,6 @@
 Swivel-Head (Req. Perception 1)
 Rank 1: Your passive Perception increases by +1.
-Rank 2: Your passive Perception increases by an additional +2. Traveling at a fast pace no longer lowers your passive 
+Rank 2: Your passive Perception bonus increases to +3. Traveling at a fast pace no longer lowers your passive 
 Perception.
 Rank 3: You have advantage on Perception (Search) checks made to find hidden traps and explosives, such as mines.
 Rank 4: You can't be surprised while you are conscious.

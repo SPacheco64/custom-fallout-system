@@ -19,7 +19,7 @@ average in most attributes. Most beings cannot surpass a SPECIAL score higher th
 but their are certain creatures who balk at such limitations.
 
 Each SPECIAL attribute also has a modifier, derived from the score and ranging from -4 (for an ability 
-score of 1) to +15 (for a score of 30). Most creatures will not exceed +5 (for a score of 10). These
+score of 1) to +15 (for a score of 20). Most creatures will not exceed +5 (for a score of 10). These
 modifiers are then added to every ability check made by that creature, in addition to any applicable 
 skills. For example, Kayleigh has an Intelligence score of 8 (+3) and a Science score of 2 (+2). This 
 means she adds a total of +5 to Intelligence (Science) checks. 
