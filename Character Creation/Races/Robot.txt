@@ -59,4 +59,4 @@ Thruster Arms. You have a trio of arms which you can apply special mods to in ad
 Bulky. Your size is Large, doubling your carrying capacity and the weight you can push, drag, or lift. At the 
 Overseer's discretion you may be too large to benefit from certain cover.
 
-Natural Armor. Without armor or a shield, your character’s AC equals 8 + their Agility modifier (minimum 1).
+Natural Armor. Without armor, your character’s AC equals 8 + their Agility modifier (minimum 1).

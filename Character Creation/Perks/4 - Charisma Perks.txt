@@ -44,9 +44,9 @@ Rank 5: You gain +1 to all SPECIAL attributes whenever under the influence of ch
 
 Magnetizing (Req. Charisma 7)
 Rank 1: Succeeding a Persuasion check against someone gives you advantage on the next Persuasion check you make against
-them. This effect can chain.
+them within the next minute. This effect can chain.
 Rank 2: Succeeding either a Persuasion or Deception check against someone gives you advantage on the next Persuasion or
-Deception check made against them. This effect can chain.
+Deception check made against them within the next minute. This effect can chain.
 Rank 3: Rolling a critical success on a Charisma check against a person charms (see condition) them for 1 minute.
 
 Inspirational (Req. Charisma 8)

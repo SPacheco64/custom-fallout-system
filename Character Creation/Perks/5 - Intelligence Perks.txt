@@ -78,9 +78,9 @@ Rank 2: When you and your party take a short rest, each party member can roll 2 
 Rank 3: When you and your party take a short rest, each party member can roll 3 additional hit dice.
 
 Nerd Rage (Req. Intelligence 10)
-Rank 1: When your current hit points drop below 1/4 of your maximum, you gain 3 Damage Resistance and deal +3 damage
+Rank 1: When your current hit points drop below 1/4 of your maximum, you deal +2 damage dice for all attacks for 1 
+minute. This effect can only trigger once per day.
+Rank 2: When your current hit points drop below 1/4 of your maximum, you gain damage resistance and deal +2 damage dice 
 for all attacks for 1 minute. This effect can only trigger once per day.
-Rank 2: When your current hit points drop below 1/4 of your maximum, you gain 5 Damage Resistance and deal +3 damage
-for all attacks for 1 minute. This effect can only trigger once per day.
-Rank 3: When your current hit points drop below 1/2 of your maximum, you gain 5 Damage Resistance and deal +3 damage
+Rank 3: When your current hit points drop below 1/3 of your maximum, you gain damage resistance and deal +2 damage dice 
 for all attacks for 1 minute. This effect can only trigger once per day.
